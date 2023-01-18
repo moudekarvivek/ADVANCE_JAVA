@@ -19,7 +19,7 @@ class Q1
 
 			DatabaseMetaData dbmd=cn.getMetaData();
 
-			System.out.println("Database Product Name=" + dbmd.getDatabaseProductName());
+			System.out.println("Databas Product Name=" + dbmd.getDatabaseProductName());
 			System.out.println("Database username:" + dbmd.getUserName());
 			System.out.println("Database Driver Name:" + dbmd.getDriverName());
 			System.out.println("Database Driver version:" + dbmd.getDriverVersion());
