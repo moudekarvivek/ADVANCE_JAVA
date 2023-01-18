@@ -1,0 +1,2962 @@
+10-Oct-2022 10:31:12.758 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+10-Oct-2022 10:31:12.758 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+10-Oct-2022 10:31:12.760 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@5a7f5342')
+10-Oct-2022 10:32:20.241 SEVERE [http-nio-8080-exec-5] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [] threw exception [Unable to compile class for JSP: 
+
+An error occurred at line: [79] in the generated java file: [/exports/syca221574/tomcat/work/Catalina/localhost/ROOT/org/apache/jsp/Ass8Q1_jsp.java]
+Syntax error, insert "}" to complete ClassBody
+
+An error occurred at line: [50] in the jsp file: [/Ass8Q1.jsp]
+Syntax error on tokens, delete these tokens
+47: 			<td>5</td>
+48: 			<td>Database Product Version</td>
+49: 			<td><% out.println(dbmt.getDatabaseProductVersion());
+50: 		</tr>
+51: 	</table>
+52: 
+53: 	<br>
+
+
+An error occurred at line: [50] in the jsp file: [/Ass8Q1.jsp]
+Syntax error on token "/", delete this token
+47: 			<td>5</td>
+48: 			<td>Database Product Version</td>
+49: 			<td><% out.println(dbmt.getDatabaseProductVersion());
+50: 		</tr>
+51: 	</table>
+52: 
+53: 	<br>
+
+
+An error occurred at line: [53] in the jsp file: [/Ass8Q1.jsp]
+Syntax error on token(s), misplaced construct(s)
+50: 		</tr>
+51: 	</table>
+52: 
+53: 	<br>
+54: 		<h3>Table Name</h3><br>
+55: 		<table border="1">
+56: 			<tr>
+
+
+An error occurred at line: [54] in the jsp file: [/Ass8Q1.jsp]
+h3 cannot be resolved to a type
+51: 	</table>
+52: 
+53: 	<br>
+54: 		<h3>Table Name</h3><br>
+55: 		<table border="1">
+56: 			<tr>
+57: 				<th>Sr No.</th>
+
+
+An error occurred at line: [54] in the jsp file: [/Ass8Q1.jsp]
+Syntax error, insert "super ( ) ;" to complete Statement
+51: 	</table>
+52: 
+53: 	<br>
+54: 		<h3>Table Name</h3><br>
+55: 		<table border="1">
+56: 			<tr>
+57: 				<th>Sr No.</th>
+
+
+An error occurred at line: [54] in the jsp file: [/Ass8Q1.jsp]
+Syntax error on token "Table", throw expected
+51: 	</table>
+52: 
+53: 	<br>
+54: 		<h3>Table Name</h3><br>
+55: 		<table border="1">
+56: 			<tr>
+57: 				<th>Sr No.</th>
+
+
+An error occurred at line: [54] in the jsp file: [/Ass8Q1.jsp]
+Constructor call must be the first statement in a constructor
+51: 	</table>
+52: 
+53: 	<br>
+54: 		<h3>Table Name</h3><br>
+55: 		<table border="1">
+56: 			<tr>
+57: 				<th>Sr No.</th>
+
+
+An error occurred at line: [54] in the jsp file: [/Ass8Q1.jsp]
+Name cannot be resolved to a variable
+51: 	</table>
+52: 
+53: 	<br>
+54: 		<h3>Table Name</h3><br>
+55: 		<table border="1">
+56: 			<tr>
+57: 				<th>Sr No.</th>
+
+
+An error occurred at line: [54] in the jsp file: [/Ass8Q1.jsp]
+Syntax error on token "/", delete this token
+51: 	</table>
+52: 
+53: 	<br>
+54: 		<h3>Table Name</h3><br>
+55: 		<table border="1">
+56: 			<tr>
+57: 				<th>Sr No.</th>
+
+
+An error occurred at line: [54] in the jsp file: [/Ass8Q1.jsp]
+h3 cannot be resolved to a variable
+51: 	</table>
+52: 
+53: 	<br>
+54: 		<h3>Table Name</h3><br>
+55: 		<table border="1">
+56: 			<tr>
+57: 				<th>Sr No.</th>
+
+
+An error occurred at line: [54] in the jsp file: [/Ass8Q1.jsp]
+Syntax error on token "<", delete this token
+51: 	</table>
+52: 
+53: 	<br>
+54: 		<h3>Table Name</h3><br>
+55: 		<table border="1">
+56: 			<tr>
+57: 				<th>Sr No.</th>
+
+
+An error occurred at line: [54] in the jsp file: [/Ass8Q1.jsp]
+br cannot be resolved to a variable
+51: 	</table>
+52: 
+53: 	<br>
+54: 		<h3>Table Name</h3><br>
+55: 		<table border="1">
+56: 			<tr>
+57: 				<th>Sr No.</th>
+
+
+An error occurred at line: [54] in the jsp file: [/Ass8Q1.jsp]
+Syntax error on token(s), misplaced construct(s)
+51: 	</table>
+52: 
+53: 	<br>
+54: 		<h3>Table Name</h3><br>
+55: 		<table border="1">
+56: 			<tr>
+57: 				<th>Sr No.</th>
+
+
+An error occurred at line: [55] in the jsp file: [/Ass8Q1.jsp]
+Syntax error, insert ";" to complete ThrowStatement
+52: 
+53: 	<br>
+54: 		<h3>Table Name</h3><br>
+55: 		<table border="1">
+56: 			<tr>
+57: 				<th>Sr No.</th>
+58: 				<th>Table Name</th>
+
+
+An error occurred at line: [55] in the jsp file: [/Ass8Q1.jsp]
+table cannot be resolved to a variable
+52: 
+53: 	<br>
+54: 		<h3>Table Name</h3><br>
+55: 		<table border="1">
+56: 			<tr>
+57: 				<th>Sr No.</th>
+58: 				<th>Table Name</th>
+
+
+An error occurred at line: [55] in the jsp file: [/Ass8Q1.jsp]
+border cannot be resolved to a variable
+52: 
+53: 	<br>
+54: 		<h3>Table Name</h3><br>
+55: 		<table border="1">
+56: 			<tr>
+57: 				<th>Sr No.</th>
+58: 				<th>Table Name</th>
+
+
+An error occurred at line: [56] in the jsp file: [/Ass8Q1.jsp]
+Syntax error on token "<", delete this token
+53: 	<br>
+54: 		<h3>Table Name</h3><br>
+55: 		<table border="1">
+56: 			<tr>
+57: 				<th>Sr No.</th>
+58: 				<th>Table Name</th>
+59: 			</tr>
+
+
+An error occurred at line: [56] in the jsp file: [/Ass8Q1.jsp]
+tr cannot be resolved to a variable
+53: 	<br>
+54: 		<h3>Table Name</h3><br>
+55: 		<table border="1">
+56: 			<tr>
+57: 				<th>Sr No.</th>
+58: 				<th>Table Name</th>
+59: 			</tr>
+
+
+An error occurred at line: [56] in the jsp file: [/Ass8Q1.jsp]
+Syntax error on token(s), misplaced construct(s)
+53: 	<br>
+54: 		<h3>Table Name</h3><br>
+55: 		<table border="1">
+56: 			<tr>
+57: 				<th>Sr No.</th>
+58: 				<th>Table Name</th>
+59: 			</tr>
+
+
+An error occurred at line: [57] in the jsp file: [/Ass8Q1.jsp]
+th cannot be resolved to a variable
+54: 		<h3>Table Name</h3><br>
+55: 		<table border="1">
+56: 			<tr>
+57: 				<th>Sr No.</th>
+58: 				<th>Table Name</th>
+59: 			</tr>
+60: 			<%
+
+
+An error occurred at line: [57] in the jsp file: [/Ass8Q1.jsp]
+Syntax error, insert ":: IdentifierOrNew" to complete ReferenceExpression
+54: 		<h3>Table Name</h3><br>
+55: 		<table border="1">
+56: 			<tr>
+57: 				<th>Sr No.</th>
+58: 				<th>Table Name</th>
+59: 			</tr>
+60: 			<%
+
+
+An error occurred at line: [57] in the jsp file: [/Ass8Q1.jsp]
+Syntax error, insert ";" to complete Statement
+54: 		<h3>Table Name</h3><br>
+55: 		<table border="1">
+56: 			<tr>
+57: 				<th>Sr No.</th>
+58: 				<th>Table Name</th>
+59: 			</tr>
+60: 			<%
+
+
+An error occurred at line: [57] in the jsp file: [/Ass8Q1.jsp]
+Sr cannot be resolved to a variable
+54: 		<h3>Table Name</h3><br>
+55: 		<table border="1">
+56: 			<tr>
+57: 				<th>Sr No.</th>
+58: 				<th>Table Name</th>
+59: 			</tr>
+60: 			<%
+
+
+An error occurred at line: [57] in the jsp file: [/Ass8Q1.jsp]
+Syntax error on token(s), misplaced construct(s)
+54: 		<h3>Table Name</h3><br>
+55: 		<table border="1">
+56: 			<tr>
+57: 				<th>Sr No.</th>
+58: 				<th>Table Name</th>
+59: 			</tr>
+60: 			<%
+
+
+An error occurred at line: [57] in the jsp file: [/Ass8Q1.jsp]
+Syntax error on token "/", delete this token
+54: 		<h3>Table Name</h3><br>
+55: 		<table border="1">
+56: 			<tr>
+57: 				<th>Sr No.</th>
+58: 				<th>Table Name</th>
+59: 			</tr>
+60: 			<%
+
+
+An error occurred at line: [58] in the jsp file: [/Ass8Q1.jsp]
+Syntax error on token "Table", ( expected after this token
+55: 		<table border="1">
+56: 			<tr>
+57: 				<th>Sr No.</th>
+58: 				<th>Table Name</th>
+59: 			</tr>
+60: 			<%
+61: 			%>
+
+
+An error occurred at line: [58] in the jsp file: [/Ass8Q1.jsp]
+Syntax error on token "/", delete this token
+55: 		<table border="1">
+56: 			<tr>
+57: 				<th>Sr No.</th>
+58: 				<th>Table Name</th>
+59: 			</tr>
+60: 			<%
+61: 			%>
+
+
+An error occurred at line: [59] in the jsp file: [/Ass8Q1.jsp]
+Syntax error on token "<", invalid Expression
+56: 			<tr>
+57: 				<th>Sr No.</th>
+58: 				<th>Table Name</th>
+59: 			</tr>
+60: 			<%
+61: 			%>
+62: 			</td>
+
+
+An error occurred at line: [60] in the jsp file: [/Ass8Q1.jsp]
+Syntax error on token "<", invalid Expression
+57: 				<th>Sr No.</th>
+58: 				<th>Table Name</th>
+59: 			</tr>
+60: 			<%
+61: 			%>
+62: 			</td>
+63: 			<%
+
+
+An error occurred at line: [61] in the jsp file: [/Ass8Q1.jsp]
+Syntax error, insert ")" to complete Expression
+58: 				<th>Table Name</th>
+59: 			</tr>
+60: 			<%
+61: 			%>
+62: 			</td>
+63: 			<%
+64: 			%>
+
+
+An error occurred at line: [68] in the jsp file: [/Ass8Q1.jsp]
+Syntax error, insert "super ( ) ;" to complete BlockStatements
+65: 			<%
+66: 		int i = 1;
+67: 		while(rs.next()) {
+68: 			<tr>
+69: 				<td><% out.println(i); %></td>
+70: 				<td><% out.println(rs.getString("TABLE_NAME")); %>
+71: 			</tr>
+
+
+An error occurred at line: [69] in the jsp file: [/Ass8Q1.jsp]
+Syntax error on tokens, delete these tokens
+66: 		int i = 1;
+67: 		while(rs.next()) {
+68: 			<tr>
+69: 				<td><% out.println(i); %></td>
+70: 				<td><% out.println(rs.getString("TABLE_NAME")); %>
+71: 			</tr>
+72: 			i++;
+
+
+An error occurred at line: [217] in the generated java file: [/exports/syca221574/tomcat/work/Catalina/localhost/ROOT/org/apache/jsp/Ass8Q1_jsp.java]
+Syntax error, insert "}" to complete Block
+
+An error occurred at line: [234] in the generated java file: [/exports/syca221574/tomcat/work/Catalina/localhost/ROOT/org/apache/jsp/Ass8Q1_jsp.java]
+Syntax error, insert "Finally" to complete TryStatement
+
+Stacktrace:] with root cause
+	org.apache.jasper.JasperException: Unable to compile class for JSP: 
+
+An error occurred at line: [79] in the generated java file: [/exports/syca221574/tomcat/work/Catalina/localhost/ROOT/org/apache/jsp/Ass8Q1_jsp.java]
+Syntax error, insert "}" to complete ClassBody
+
+An error occurred at line: [50] in the jsp file: [/Ass8Q1.jsp]
+Syntax error on tokens, delete these tokens
+47: 			<td>5</td>
+48: 			<td>Database Product Version</td>
+49: 			<td><% out.println(dbmt.getDatabaseProductVersion());
+50: 		</tr>
+51: 	</table>
+52: 
+53: 	<br>
+
+
+An error occurred at line: [50] in the jsp file: [/Ass8Q1.jsp]
+Syntax error on token "/", delete this token
+47: 			<td>5</td>
+48: 			<td>Database Product Version</td>
+49: 			<td><% out.println(dbmt.getDatabaseProductVersion());
+50: 		</tr>
+51: 	</table>
+52: 
+53: 	<br>
+
+
+An error occurred at line: [53] in the jsp file: [/Ass8Q1.jsp]
+Syntax error on token(s), misplaced construct(s)
+50: 		</tr>
+51: 	</table>
+52: 
+53: 	<br>
+54: 		<h3>Table Name</h3><br>
+55: 		<table border="1">
+56: 			<tr>
+
+
+An error occurred at line: [54] in the jsp file: [/Ass8Q1.jsp]
+h3 cannot be resolved to a type
+51: 	</table>
+52: 
+53: 	<br>
+54: 		<h3>Table Name</h3><br>
+55: 		<table border="1">
+56: 			<tr>
+57: 				<th>Sr No.</th>
+
+
+An error occurred at line: [54] in the jsp file: [/Ass8Q1.jsp]
+Syntax error, insert "super ( ) ;" to complete Statement
+51: 	</table>
+52: 
+53: 	<br>
+54: 		<h3>Table Name</h3><br>
+55: 		<table border="1">
+56: 			<tr>
+57: 				<th>Sr No.</th>
+
+
+An error occurred at line: [54] in the jsp file: [/Ass8Q1.jsp]
+Syntax error on token "Table", throw expected
+51: 	</table>
+52: 
+53: 	<br>
+54: 		<h3>Table Name</h3><br>
+55: 		<table border="1">
+56: 			<tr>
+57: 				<th>Sr No.</th>
+
+
+An error occurred at line: [54] in the jsp file: [/Ass8Q1.jsp]
+Constructor call must be the first statement in a constructor
+51: 	</table>
+52: 
+53: 	<br>
+54: 		<h3>Table Name</h3><br>
+55: 		<table border="1">
+56: 			<tr>
+57: 				<th>Sr No.</th>
+
+
+An error occurred at line: [54] in the jsp file: [/Ass8Q1.jsp]
+Name cannot be resolved to a variable
+51: 	</table>
+52: 
+53: 	<br>
+54: 		<h3>Table Name</h3><br>
+55: 		<table border="1">
+56: 			<tr>
+57: 				<th>Sr No.</th>
+
+
+An error occurred at line: [54] in the jsp file: [/Ass8Q1.jsp]
+Syntax error on token "/", delete this token
+51: 	</table>
+52: 
+53: 	<br>
+54: 		<h3>Table Name</h3><br>
+55: 		<table border="1">
+56: 			<tr>
+57: 				<th>Sr No.</th>
+
+
+An error occurred at line: [54] in the jsp file: [/Ass8Q1.jsp]
+h3 cannot be resolved to a variable
+51: 	</table>
+52: 
+53: 	<br>
+54: 		<h3>Table Name</h3><br>
+55: 		<table border="1">
+56: 			<tr>
+57: 				<th>Sr No.</th>
+
+
+An error occurred at line: [54] in the jsp file: [/Ass8Q1.jsp]
+Syntax error on token "<", delete this token
+51: 	</table>
+52: 
+53: 	<br>
+54: 		<h3>Table Name</h3><br>
+55: 		<table border="1">
+56: 			<tr>
+57: 				<th>Sr No.</th>
+
+
+An error occurred at line: [54] in the jsp file: [/Ass8Q1.jsp]
+br cannot be resolved to a variable
+51: 	</table>
+52: 
+53: 	<br>
+54: 		<h3>Table Name</h3><br>
+55: 		<table border="1">
+56: 			<tr>
+57: 				<th>Sr No.</th>
+
+
+An error occurred at line: [54] in the jsp file: [/Ass8Q1.jsp]
+Syntax error on token(s), misplaced construct(s)
+51: 	</table>
+52: 
+53: 	<br>
+54: 		<h3>Table Name</h3><br>
+55: 		<table border="1">
+56: 			<tr>
+57: 				<th>Sr No.</th>
+
+
+An error occurred at line: [55] in the jsp file: [/Ass8Q1.jsp]
+Syntax error, insert ";" to complete ThrowStatement
+52: 
+53: 	<br>
+54: 		<h3>Table Name</h3><br>
+55: 		<table border="1">
+56: 			<tr>
+57: 				<th>Sr No.</th>
+58: 				<th>Table Name</th>
+
+
+An error occurred at line: [55] in the jsp file: [/Ass8Q1.jsp]
+table cannot be resolved to a variable
+52: 
+53: 	<br>
+54: 		<h3>Table Name</h3><br>
+55: 		<table border="1">
+56: 			<tr>
+57: 				<th>Sr No.</th>
+58: 				<th>Table Name</th>
+
+
+An error occurred at line: [55] in the jsp file: [/Ass8Q1.jsp]
+border cannot be resolved to a variable
+52: 
+53: 	<br>
+54: 		<h3>Table Name</h3><br>
+55: 		<table border="1">
+56: 			<tr>
+57: 				<th>Sr No.</th>
+58: 				<th>Table Name</th>
+
+
+An error occurred at line: [56] in the jsp file: [/Ass8Q1.jsp]
+Syntax error on token "<", delete this token
+53: 	<br>
+54: 		<h3>Table Name</h3><br>
+55: 		<table border="1">
+56: 			<tr>
+57: 				<th>Sr No.</th>
+58: 				<th>Table Name</th>
+59: 			</tr>
+
+
+An error occurred at line: [56] in the jsp file: [/Ass8Q1.jsp]
+tr cannot be resolved to a variable
+53: 	<br>
+54: 		<h3>Table Name</h3><br>
+55: 		<table border="1">
+56: 			<tr>
+57: 				<th>Sr No.</th>
+58: 				<th>Table Name</th>
+59: 			</tr>
+
+
+An error occurred at line: [56] in the jsp file: [/Ass8Q1.jsp]
+Syntax error on token(s), misplaced construct(s)
+53: 	<br>
+54: 		<h3>Table Name</h3><br>
+55: 		<table border="1">
+56: 			<tr>
+57: 				<th>Sr No.</th>
+58: 				<th>Table Name</th>
+59: 			</tr>
+
+
+An error occurred at line: [57] in the jsp file: [/Ass8Q1.jsp]
+th cannot be resolved to a variable
+54: 		<h3>Table Name</h3><br>
+55: 		<table border="1">
+56: 			<tr>
+57: 				<th>Sr No.</th>
+58: 				<th>Table Name</th>
+59: 			</tr>
+60: 			<%
+
+
+An error occurred at line: [57] in the jsp file: [/Ass8Q1.jsp]
+Syntax error, insert ":: IdentifierOrNew" to complete ReferenceExpression
+54: 		<h3>Table Name</h3><br>
+55: 		<table border="1">
+56: 			<tr>
+57: 				<th>Sr No.</th>
+58: 				<th>Table Name</th>
+59: 			</tr>
+60: 			<%
+
+
+An error occurred at line: [57] in the jsp file: [/Ass8Q1.jsp]
+Syntax error, insert ";" to complete Statement
+54: 		<h3>Table Name</h3><br>
+55: 		<table border="1">
+56: 			<tr>
+57: 				<th>Sr No.</th>
+58: 				<th>Table Name</th>
+59: 			</tr>
+60: 			<%
+
+
+An error occurred at line: [57] in the jsp file: [/Ass8Q1.jsp]
+Sr cannot be resolved to a variable
+54: 		<h3>Table Name</h3><br>
+55: 		<table border="1">
+56: 			<tr>
+57: 				<th>Sr No.</th>
+58: 				<th>Table Name</th>
+59: 			</tr>
+60: 			<%
+
+
+An error occurred at line: [57] in the jsp file: [/Ass8Q1.jsp]
+Syntax error on token(s), misplaced construct(s)
+54: 		<h3>Table Name</h3><br>
+55: 		<table border="1">
+56: 			<tr>
+57: 				<th>Sr No.</th>
+58: 				<th>Table Name</th>
+59: 			</tr>
+60: 			<%
+
+
+An error occurred at line: [57] in the jsp file: [/Ass8Q1.jsp]
+Syntax error on token "/", delete this token
+54: 		<h3>Table Name</h3><br>
+55: 		<table border="1">
+56: 			<tr>
+57: 				<th>Sr No.</th>
+58: 				<th>Table Name</th>
+59: 			</tr>
+60: 			<%
+
+
+An error occurred at line: [58] in the jsp file: [/Ass8Q1.jsp]
+Syntax error on token "Table", ( expected after this token
+55: 		<table border="1">
+56: 			<tr>
+57: 				<th>Sr No.</th>
+58: 				<th>Table Name</th>
+59: 			</tr>
+60: 			<%
+61: 			%>
+
+
+An error occurred at line: [58] in the jsp file: [/Ass8Q1.jsp]
+Syntax error on token "/", delete this token
+55: 		<table border="1">
+56: 			<tr>
+57: 				<th>Sr No.</th>
+58: 				<th>Table Name</th>
+59: 			</tr>
+60: 			<%
+61: 			%>
+
+
+An error occurred at line: [59] in the jsp file: [/Ass8Q1.jsp]
+Syntax error on token "<", invalid Expression
+56: 			<tr>
+57: 				<th>Sr No.</th>
+58: 				<th>Table Name</th>
+59: 			</tr>
+60: 			<%
+61: 			%>
+62: 			</td>
+
+
+An error occurred at line: [60] in the jsp file: [/Ass8Q1.jsp]
+Syntax error on token "<", invalid Expression
+57: 				<th>Sr No.</th>
+58: 				<th>Table Name</th>
+59: 			</tr>
+60: 			<%
+61: 			%>
+62: 			</td>
+63: 			<%
+
+
+An error occurred at line: [61] in the jsp file: [/Ass8Q1.jsp]
+Syntax error, insert ")" to complete Expression
+58: 				<th>Table Name</th>
+59: 			</tr>
+60: 			<%
+61: 			%>
+62: 			</td>
+63: 			<%
+64: 			%>
+
+
+An error occurred at line: [68] in the jsp file: [/Ass8Q1.jsp]
+Syntax error, insert "super ( ) ;" to complete BlockStatements
+65: 			<%
+66: 		int i = 1;
+67: 		while(rs.next()) {
+68: 			<tr>
+69: 				<td><% out.println(i); %></td>
+70: 				<td><% out.println(rs.getString("TABLE_NAME")); %>
+71: 			</tr>
+
+
+An error occurred at line: [69] in the jsp file: [/Ass8Q1.jsp]
+Syntax error on tokens, delete these tokens
+66: 		int i = 1;
+67: 		while(rs.next()) {
+68: 			<tr>
+69: 				<td><% out.println(i); %></td>
+70: 				<td><% out.println(rs.getString("TABLE_NAME")); %>
+71: 			</tr>
+72: 			i++;
+
+
+An error occurred at line: [217] in the generated java file: [/exports/syca221574/tomcat/work/Catalina/localhost/ROOT/org/apache/jsp/Ass8Q1_jsp.java]
+Syntax error, insert "}" to complete Block
+
+An error occurred at line: [234] in the generated java file: [/exports/syca221574/tomcat/work/Catalina/localhost/ROOT/org/apache/jsp/Ass8Q1_jsp.java]
+Syntax error, insert "Finally" to complete TryStatement
+
+Stacktrace:
+		at org.apache.jasper.compiler.DefaultErrorHandler.javacError(DefaultErrorHandler.java:102)
+		at org.apache.jasper.compiler.ErrorDispatcher.javacError(ErrorDispatcher.java:213)
+		at org.apache.jasper.compiler.JDTCompiler.generateClass(JDTCompiler.java:569)
+		at org.apache.jasper.compiler.Compiler.compile(Compiler.java:380)
+		at org.apache.jasper.compiler.Compiler.compile(Compiler.java:350)
+		at org.apache.jasper.compiler.Compiler.compile(Compiler.java:334)
+		at org.apache.jasper.JspCompilationContext.compile(JspCompilationContext.java:597)
+		at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:398)
+		at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:383)
+		at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:331)
+		at javax.servlet.http.HttpServlet.service(HttpServlet.java:764)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+		at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+		at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:197)
+		at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+		at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:543)
+		at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:135)
+		at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:81)
+		at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:698)
+		at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+		at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:366)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:639)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:881)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1647)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+		at java.lang.Thread.run(Thread.java:748)
+10-Oct-2022 10:34:00.709 SEVERE [http-nio-8080-exec-8] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [] threw exception [Unable to compile class for JSP: 
+
+An error occurred at line: [79] in the generated java file: [/exports/syca221574/tomcat/work/Catalina/localhost/ROOT/org/apache/jsp/Ass8Q1_jsp.java]
+Syntax error, insert "}" to complete ClassBody
+
+An error occurred at line: [50] in the jsp file: [/Ass8Q1.jsp]
+Syntax error on tokens, delete these tokens
+47: 			<td>5</td>
+48: 			<td>Database Product Version</td>
+49: 			<td><% out.println(dbmt.getDatabaseProductVersion());
+50: 		</tr>
+51: 	</table>
+52: 
+53: 	<br>
+
+
+An error occurred at line: [50] in the jsp file: [/Ass8Q1.jsp]
+Syntax error on token "/", delete this token
+47: 			<td>5</td>
+48: 			<td>Database Product Version</td>
+49: 			<td><% out.println(dbmt.getDatabaseProductVersion());
+50: 		</tr>
+51: 	</table>
+52: 
+53: 	<br>
+
+
+An error occurred at line: [53] in the jsp file: [/Ass8Q1.jsp]
+Syntax error on token(s), misplaced construct(s)
+50: 		</tr>
+51: 	</table>
+52: 
+53: 	<br>
+54: 		<h3>Table Name</h3><br>
+55: 		<table border="1">
+56: 			<tr>
+
+
+An error occurred at line: [54] in the jsp file: [/Ass8Q1.jsp]
+h3 cannot be resolved to a type
+51: 	</table>
+52: 
+53: 	<br>
+54: 		<h3>Table Name</h3><br>
+55: 		<table border="1">
+56: 			<tr>
+57: 				<th>Sr No.</th>
+
+
+An error occurred at line: [54] in the jsp file: [/Ass8Q1.jsp]
+Syntax error, insert "super ( ) ;" to complete Statement
+51: 	</table>
+52: 
+53: 	<br>
+54: 		<h3>Table Name</h3><br>
+55: 		<table border="1">
+56: 			<tr>
+57: 				<th>Sr No.</th>
+
+
+An error occurred at line: [54] in the jsp file: [/Ass8Q1.jsp]
+Syntax error on token "Table", throw expected
+51: 	</table>
+52: 
+53: 	<br>
+54: 		<h3>Table Name</h3><br>
+55: 		<table border="1">
+56: 			<tr>
+57: 				<th>Sr No.</th>
+
+
+An error occurred at line: [54] in the jsp file: [/Ass8Q1.jsp]
+Constructor call must be the first statement in a constructor
+51: 	</table>
+52: 
+53: 	<br>
+54: 		<h3>Table Name</h3><br>
+55: 		<table border="1">
+56: 			<tr>
+57: 				<th>Sr No.</th>
+
+
+An error occurred at line: [54] in the jsp file: [/Ass8Q1.jsp]
+Name cannot be resolved to a variable
+51: 	</table>
+52: 
+53: 	<br>
+54: 		<h3>Table Name</h3><br>
+55: 		<table border="1">
+56: 			<tr>
+57: 				<th>Sr No.</th>
+
+
+An error occurred at line: [54] in the jsp file: [/Ass8Q1.jsp]
+Syntax error on token "/", delete this token
+51: 	</table>
+52: 
+53: 	<br>
+54: 		<h3>Table Name</h3><br>
+55: 		<table border="1">
+56: 			<tr>
+57: 				<th>Sr No.</th>
+
+
+An error occurred at line: [54] in the jsp file: [/Ass8Q1.jsp]
+h3 cannot be resolved to a variable
+51: 	</table>
+52: 
+53: 	<br>
+54: 		<h3>Table Name</h3><br>
+55: 		<table border="1">
+56: 			<tr>
+57: 				<th>Sr No.</th>
+
+
+An error occurred at line: [54] in the jsp file: [/Ass8Q1.jsp]
+Syntax error on token "<", delete this token
+51: 	</table>
+52: 
+53: 	<br>
+54: 		<h3>Table Name</h3><br>
+55: 		<table border="1">
+56: 			<tr>
+57: 				<th>Sr No.</th>
+
+
+An error occurred at line: [54] in the jsp file: [/Ass8Q1.jsp]
+br cannot be resolved to a variable
+51: 	</table>
+52: 
+53: 	<br>
+54: 		<h3>Table Name</h3><br>
+55: 		<table border="1">
+56: 			<tr>
+57: 				<th>Sr No.</th>
+
+
+An error occurred at line: [54] in the jsp file: [/Ass8Q1.jsp]
+Syntax error on token(s), misplaced construct(s)
+51: 	</table>
+52: 
+53: 	<br>
+54: 		<h3>Table Name</h3><br>
+55: 		<table border="1">
+56: 			<tr>
+57: 				<th>Sr No.</th>
+
+
+An error occurred at line: [55] in the jsp file: [/Ass8Q1.jsp]
+Syntax error, insert ";" to complete ThrowStatement
+52: 
+53: 	<br>
+54: 		<h3>Table Name</h3><br>
+55: 		<table border="1">
+56: 			<tr>
+57: 				<th>Sr No.</th>
+58: 				<th>Table Name</th>
+
+
+An error occurred at line: [55] in the jsp file: [/Ass8Q1.jsp]
+table cannot be resolved to a variable
+52: 
+53: 	<br>
+54: 		<h3>Table Name</h3><br>
+55: 		<table border="1">
+56: 			<tr>
+57: 				<th>Sr No.</th>
+58: 				<th>Table Name</th>
+
+
+An error occurred at line: [55] in the jsp file: [/Ass8Q1.jsp]
+border cannot be resolved to a variable
+52: 
+53: 	<br>
+54: 		<h3>Table Name</h3><br>
+55: 		<table border="1">
+56: 			<tr>
+57: 				<th>Sr No.</th>
+58: 				<th>Table Name</th>
+
+
+An error occurred at line: [56] in the jsp file: [/Ass8Q1.jsp]
+Syntax error on token "<", delete this token
+53: 	<br>
+54: 		<h3>Table Name</h3><br>
+55: 		<table border="1">
+56: 			<tr>
+57: 				<th>Sr No.</th>
+58: 				<th>Table Name</th>
+59: 			</tr>
+
+
+An error occurred at line: [56] in the jsp file: [/Ass8Q1.jsp]
+tr cannot be resolved to a variable
+53: 	<br>
+54: 		<h3>Table Name</h3><br>
+55: 		<table border="1">
+56: 			<tr>
+57: 				<th>Sr No.</th>
+58: 				<th>Table Name</th>
+59: 			</tr>
+
+
+An error occurred at line: [56] in the jsp file: [/Ass8Q1.jsp]
+Syntax error on token(s), misplaced construct(s)
+53: 	<br>
+54: 		<h3>Table Name</h3><br>
+55: 		<table border="1">
+56: 			<tr>
+57: 				<th>Sr No.</th>
+58: 				<th>Table Name</th>
+59: 			</tr>
+
+
+An error occurred at line: [57] in the jsp file: [/Ass8Q1.jsp]
+th cannot be resolved to a variable
+54: 		<h3>Table Name</h3><br>
+55: 		<table border="1">
+56: 			<tr>
+57: 				<th>Sr No.</th>
+58: 				<th>Table Name</th>
+59: 			</tr>
+60: 			<%
+
+
+An error occurred at line: [57] in the jsp file: [/Ass8Q1.jsp]
+Syntax error, insert ":: IdentifierOrNew" to complete ReferenceExpression
+54: 		<h3>Table Name</h3><br>
+55: 		<table border="1">
+56: 			<tr>
+57: 				<th>Sr No.</th>
+58: 				<th>Table Name</th>
+59: 			</tr>
+60: 			<%
+
+
+An error occurred at line: [57] in the jsp file: [/Ass8Q1.jsp]
+Syntax error, insert ";" to complete Statement
+54: 		<h3>Table Name</h3><br>
+55: 		<table border="1">
+56: 			<tr>
+57: 				<th>Sr No.</th>
+58: 				<th>Table Name</th>
+59: 			</tr>
+60: 			<%
+
+
+An error occurred at line: [57] in the jsp file: [/Ass8Q1.jsp]
+Sr cannot be resolved to a variable
+54: 		<h3>Table Name</h3><br>
+55: 		<table border="1">
+56: 			<tr>
+57: 				<th>Sr No.</th>
+58: 				<th>Table Name</th>
+59: 			</tr>
+60: 			<%
+
+
+An error occurred at line: [57] in the jsp file: [/Ass8Q1.jsp]
+Syntax error on token(s), misplaced construct(s)
+54: 		<h3>Table Name</h3><br>
+55: 		<table border="1">
+56: 			<tr>
+57: 				<th>Sr No.</th>
+58: 				<th>Table Name</th>
+59: 			</tr>
+60: 			<%
+
+
+An error occurred at line: [57] in the jsp file: [/Ass8Q1.jsp]
+Syntax error on token "/", delete this token
+54: 		<h3>Table Name</h3><br>
+55: 		<table border="1">
+56: 			<tr>
+57: 				<th>Sr No.</th>
+58: 				<th>Table Name</th>
+59: 			</tr>
+60: 			<%
+
+
+An error occurred at line: [58] in the jsp file: [/Ass8Q1.jsp]
+Syntax error on token "Table", ( expected after this token
+55: 		<table border="1">
+56: 			<tr>
+57: 				<th>Sr No.</th>
+58: 				<th>Table Name</th>
+59: 			</tr>
+60: 			<%
+61: 			%>
+
+
+An error occurred at line: [58] in the jsp file: [/Ass8Q1.jsp]
+Syntax error on token "/", delete this token
+55: 		<table border="1">
+56: 			<tr>
+57: 				<th>Sr No.</th>
+58: 				<th>Table Name</th>
+59: 			</tr>
+60: 			<%
+61: 			%>
+
+
+An error occurred at line: [59] in the jsp file: [/Ass8Q1.jsp]
+Syntax error on token "<", invalid Expression
+56: 			<tr>
+57: 				<th>Sr No.</th>
+58: 				<th>Table Name</th>
+59: 			</tr>
+60: 			<%
+61: 			%>
+62: 			</td>
+
+
+An error occurred at line: [60] in the jsp file: [/Ass8Q1.jsp]
+Syntax error on token "<", invalid Expression
+57: 				<th>Sr No.</th>
+58: 				<th>Table Name</th>
+59: 			</tr>
+60: 			<%
+61: 			%>
+62: 			</td>
+63: 			<%
+
+
+An error occurred at line: [61] in the jsp file: [/Ass8Q1.jsp]
+Syntax error, insert ")" to complete Expression
+58: 				<th>Table Name</th>
+59: 			</tr>
+60: 			<%
+61: 			%>
+62: 			</td>
+63: 			<%
+64: 			%>
+
+
+An error occurred at line: [68] in the jsp file: [/Ass8Q1.jsp]
+Syntax error, insert "super ( ) ;" to complete BlockStatements
+65: 			<%
+66: 		int i = 1;
+67: 		while(rs.next()) {
+68: 			<tr>
+69: 				<td><% out.println(i); %></td>
+70: 				<td><% out.println(rs.getString("TABLE_NAME")); %>
+71: 			</tr>
+
+
+An error occurred at line: [69] in the jsp file: [/Ass8Q1.jsp]
+Syntax error on tokens, delete these tokens
+66: 		int i = 1;
+67: 		while(rs.next()) {
+68: 			<tr>
+69: 				<td><% out.println(i); %></td>
+70: 				<td><% out.println(rs.getString("TABLE_NAME")); %>
+71: 			</tr>
+72: 			i++;
+
+
+An error occurred at line: [217] in the generated java file: [/exports/syca221574/tomcat/work/Catalina/localhost/ROOT/org/apache/jsp/Ass8Q1_jsp.java]
+Syntax error, insert "}" to complete Block
+
+An error occurred at line: [234] in the generated java file: [/exports/syca221574/tomcat/work/Catalina/localhost/ROOT/org/apache/jsp/Ass8Q1_jsp.java]
+Syntax error, insert "Finally" to complete TryStatement
+
+Stacktrace:] with root cause
+	org.apache.jasper.JasperException: Unable to compile class for JSP: 
+
+An error occurred at line: [79] in the generated java file: [/exports/syca221574/tomcat/work/Catalina/localhost/ROOT/org/apache/jsp/Ass8Q1_jsp.java]
+Syntax error, insert "}" to complete ClassBody
+
+An error occurred at line: [50] in the jsp file: [/Ass8Q1.jsp]
+Syntax error on tokens, delete these tokens
+47: 			<td>5</td>
+48: 			<td>Database Product Version</td>
+49: 			<td><% out.println(dbmt.getDatabaseProductVersion());
+50: 		</tr>
+51: 	</table>
+52: 
+53: 	<br>
+
+
+An error occurred at line: [50] in the jsp file: [/Ass8Q1.jsp]
+Syntax error on token "/", delete this token
+47: 			<td>5</td>
+48: 			<td>Database Product Version</td>
+49: 			<td><% out.println(dbmt.getDatabaseProductVersion());
+50: 		</tr>
+51: 	</table>
+52: 
+53: 	<br>
+
+
+An error occurred at line: [53] in the jsp file: [/Ass8Q1.jsp]
+Syntax error on token(s), misplaced construct(s)
+50: 		</tr>
+51: 	</table>
+52: 
+53: 	<br>
+54: 		<h3>Table Name</h3><br>
+55: 		<table border="1">
+56: 			<tr>
+
+
+An error occurred at line: [54] in the jsp file: [/Ass8Q1.jsp]
+h3 cannot be resolved to a type
+51: 	</table>
+52: 
+53: 	<br>
+54: 		<h3>Table Name</h3><br>
+55: 		<table border="1">
+56: 			<tr>
+57: 				<th>Sr No.</th>
+
+
+An error occurred at line: [54] in the jsp file: [/Ass8Q1.jsp]
+Syntax error, insert "super ( ) ;" to complete Statement
+51: 	</table>
+52: 
+53: 	<br>
+54: 		<h3>Table Name</h3><br>
+55: 		<table border="1">
+56: 			<tr>
+57: 				<th>Sr No.</th>
+
+
+An error occurred at line: [54] in the jsp file: [/Ass8Q1.jsp]
+Syntax error on token "Table", throw expected
+51: 	</table>
+52: 
+53: 	<br>
+54: 		<h3>Table Name</h3><br>
+55: 		<table border="1">
+56: 			<tr>
+57: 				<th>Sr No.</th>
+
+
+An error occurred at line: [54] in the jsp file: [/Ass8Q1.jsp]
+Constructor call must be the first statement in a constructor
+51: 	</table>
+52: 
+53: 	<br>
+54: 		<h3>Table Name</h3><br>
+55: 		<table border="1">
+56: 			<tr>
+57: 				<th>Sr No.</th>
+
+
+An error occurred at line: [54] in the jsp file: [/Ass8Q1.jsp]
+Name cannot be resolved to a variable
+51: 	</table>
+52: 
+53: 	<br>
+54: 		<h3>Table Name</h3><br>
+55: 		<table border="1">
+56: 			<tr>
+57: 				<th>Sr No.</th>
+
+
+An error occurred at line: [54] in the jsp file: [/Ass8Q1.jsp]
+Syntax error on token "/", delete this token
+51: 	</table>
+52: 
+53: 	<br>
+54: 		<h3>Table Name</h3><br>
+55: 		<table border="1">
+56: 			<tr>
+57: 				<th>Sr No.</th>
+
+
+An error occurred at line: [54] in the jsp file: [/Ass8Q1.jsp]
+h3 cannot be resolved to a variable
+51: 	</table>
+52: 
+53: 	<br>
+54: 		<h3>Table Name</h3><br>
+55: 		<table border="1">
+56: 			<tr>
+57: 				<th>Sr No.</th>
+
+
+An error occurred at line: [54] in the jsp file: [/Ass8Q1.jsp]
+Syntax error on token "<", delete this token
+51: 	</table>
+52: 
+53: 	<br>
+54: 		<h3>Table Name</h3><br>
+55: 		<table border="1">
+56: 			<tr>
+57: 				<th>Sr No.</th>
+
+
+An error occurred at line: [54] in the jsp file: [/Ass8Q1.jsp]
+br cannot be resolved to a variable
+51: 	</table>
+52: 
+53: 	<br>
+54: 		<h3>Table Name</h3><br>
+55: 		<table border="1">
+56: 			<tr>
+57: 				<th>Sr No.</th>
+
+
+An error occurred at line: [54] in the jsp file: [/Ass8Q1.jsp]
+Syntax error on token(s), misplaced construct(s)
+51: 	</table>
+52: 
+53: 	<br>
+54: 		<h3>Table Name</h3><br>
+55: 		<table border="1">
+56: 			<tr>
+57: 				<th>Sr No.</th>
+
+
+An error occurred at line: [55] in the jsp file: [/Ass8Q1.jsp]
+Syntax error, insert ";" to complete ThrowStatement
+52: 
+53: 	<br>
+54: 		<h3>Table Name</h3><br>
+55: 		<table border="1">
+56: 			<tr>
+57: 				<th>Sr No.</th>
+58: 				<th>Table Name</th>
+
+
+An error occurred at line: [55] in the jsp file: [/Ass8Q1.jsp]
+table cannot be resolved to a variable
+52: 
+53: 	<br>
+54: 		<h3>Table Name</h3><br>
+55: 		<table border="1">
+56: 			<tr>
+57: 				<th>Sr No.</th>
+58: 				<th>Table Name</th>
+
+
+An error occurred at line: [55] in the jsp file: [/Ass8Q1.jsp]
+border cannot be resolved to a variable
+52: 
+53: 	<br>
+54: 		<h3>Table Name</h3><br>
+55: 		<table border="1">
+56: 			<tr>
+57: 				<th>Sr No.</th>
+58: 				<th>Table Name</th>
+
+
+An error occurred at line: [56] in the jsp file: [/Ass8Q1.jsp]
+Syntax error on token "<", delete this token
+53: 	<br>
+54: 		<h3>Table Name</h3><br>
+55: 		<table border="1">
+56: 			<tr>
+57: 				<th>Sr No.</th>
+58: 				<th>Table Name</th>
+59: 			</tr>
+
+
+An error occurred at line: [56] in the jsp file: [/Ass8Q1.jsp]
+tr cannot be resolved to a variable
+53: 	<br>
+54: 		<h3>Table Name</h3><br>
+55: 		<table border="1">
+56: 			<tr>
+57: 				<th>Sr No.</th>
+58: 				<th>Table Name</th>
+59: 			</tr>
+
+
+An error occurred at line: [56] in the jsp file: [/Ass8Q1.jsp]
+Syntax error on token(s), misplaced construct(s)
+53: 	<br>
+54: 		<h3>Table Name</h3><br>
+55: 		<table border="1">
+56: 			<tr>
+57: 				<th>Sr No.</th>
+58: 				<th>Table Name</th>
+59: 			</tr>
+
+
+An error occurred at line: [57] in the jsp file: [/Ass8Q1.jsp]
+th cannot be resolved to a variable
+54: 		<h3>Table Name</h3><br>
+55: 		<table border="1">
+56: 			<tr>
+57: 				<th>Sr No.</th>
+58: 				<th>Table Name</th>
+59: 			</tr>
+60: 			<%
+
+
+An error occurred at line: [57] in the jsp file: [/Ass8Q1.jsp]
+Syntax error, insert ":: IdentifierOrNew" to complete ReferenceExpression
+54: 		<h3>Table Name</h3><br>
+55: 		<table border="1">
+56: 			<tr>
+57: 				<th>Sr No.</th>
+58: 				<th>Table Name</th>
+59: 			</tr>
+60: 			<%
+
+
+An error occurred at line: [57] in the jsp file: [/Ass8Q1.jsp]
+Syntax error, insert ";" to complete Statement
+54: 		<h3>Table Name</h3><br>
+55: 		<table border="1">
+56: 			<tr>
+57: 				<th>Sr No.</th>
+58: 				<th>Table Name</th>
+59: 			</tr>
+60: 			<%
+
+
+An error occurred at line: [57] in the jsp file: [/Ass8Q1.jsp]
+Sr cannot be resolved to a variable
+54: 		<h3>Table Name</h3><br>
+55: 		<table border="1">
+56: 			<tr>
+57: 				<th>Sr No.</th>
+58: 				<th>Table Name</th>
+59: 			</tr>
+60: 			<%
+
+
+An error occurred at line: [57] in the jsp file: [/Ass8Q1.jsp]
+Syntax error on token(s), misplaced construct(s)
+54: 		<h3>Table Name</h3><br>
+55: 		<table border="1">
+56: 			<tr>
+57: 				<th>Sr No.</th>
+58: 				<th>Table Name</th>
+59: 			</tr>
+60: 			<%
+
+
+An error occurred at line: [57] in the jsp file: [/Ass8Q1.jsp]
+Syntax error on token "/", delete this token
+54: 		<h3>Table Name</h3><br>
+55: 		<table border="1">
+56: 			<tr>
+57: 				<th>Sr No.</th>
+58: 				<th>Table Name</th>
+59: 			</tr>
+60: 			<%
+
+
+An error occurred at line: [58] in the jsp file: [/Ass8Q1.jsp]
+Syntax error on token "Table", ( expected after this token
+55: 		<table border="1">
+56: 			<tr>
+57: 				<th>Sr No.</th>
+58: 				<th>Table Name</th>
+59: 			</tr>
+60: 			<%
+61: 			%>
+
+
+An error occurred at line: [58] in the jsp file: [/Ass8Q1.jsp]
+Syntax error on token "/", delete this token
+55: 		<table border="1">
+56: 			<tr>
+57: 				<th>Sr No.</th>
+58: 				<th>Table Name</th>
+59: 			</tr>
+60: 			<%
+61: 			%>
+
+
+An error occurred at line: [59] in the jsp file: [/Ass8Q1.jsp]
+Syntax error on token "<", invalid Expression
+56: 			<tr>
+57: 				<th>Sr No.</th>
+58: 				<th>Table Name</th>
+59: 			</tr>
+60: 			<%
+61: 			%>
+62: 			</td>
+
+
+An error occurred at line: [60] in the jsp file: [/Ass8Q1.jsp]
+Syntax error on token "<", invalid Expression
+57: 				<th>Sr No.</th>
+58: 				<th>Table Name</th>
+59: 			</tr>
+60: 			<%
+61: 			%>
+62: 			</td>
+63: 			<%
+
+
+An error occurred at line: [61] in the jsp file: [/Ass8Q1.jsp]
+Syntax error, insert ")" to complete Expression
+58: 				<th>Table Name</th>
+59: 			</tr>
+60: 			<%
+61: 			%>
+62: 			</td>
+63: 			<%
+64: 			%>
+
+
+An error occurred at line: [68] in the jsp file: [/Ass8Q1.jsp]
+Syntax error, insert "super ( ) ;" to complete BlockStatements
+65: 			<%
+66: 		int i = 1;
+67: 		while(rs.next()) {
+68: 			<tr>
+69: 				<td><% out.println(i); %></td>
+70: 				<td><% out.println(rs.getString("TABLE_NAME")); %>
+71: 			</tr>
+
+
+An error occurred at line: [69] in the jsp file: [/Ass8Q1.jsp]
+Syntax error on tokens, delete these tokens
+66: 		int i = 1;
+67: 		while(rs.next()) {
+68: 			<tr>
+69: 				<td><% out.println(i); %></td>
+70: 				<td><% out.println(rs.getString("TABLE_NAME")); %>
+71: 			</tr>
+72: 			i++;
+
+
+An error occurred at line: [217] in the generated java file: [/exports/syca221574/tomcat/work/Catalina/localhost/ROOT/org/apache/jsp/Ass8Q1_jsp.java]
+Syntax error, insert "}" to complete Block
+
+An error occurred at line: [234] in the generated java file: [/exports/syca221574/tomcat/work/Catalina/localhost/ROOT/org/apache/jsp/Ass8Q1_jsp.java]
+Syntax error, insert "Finally" to complete TryStatement
+
+Stacktrace:
+		at org.apache.jasper.compiler.DefaultErrorHandler.javacError(DefaultErrorHandler.java:102)
+		at org.apache.jasper.compiler.ErrorDispatcher.javacError(ErrorDispatcher.java:213)
+		at org.apache.jasper.compiler.JDTCompiler.generateClass(JDTCompiler.java:569)
+		at org.apache.jasper.compiler.Compiler.compile(Compiler.java:380)
+		at org.apache.jasper.compiler.Compiler.compile(Compiler.java:350)
+		at org.apache.jasper.compiler.Compiler.compile(Compiler.java:334)
+		at org.apache.jasper.JspCompilationContext.compile(JspCompilationContext.java:597)
+		at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:398)
+		at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:383)
+		at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:331)
+		at javax.servlet.http.HttpServlet.service(HttpServlet.java:764)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+		at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+		at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:197)
+		at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+		at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:543)
+		at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:135)
+		at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:81)
+		at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:698)
+		at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+		at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:366)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:639)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:881)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1647)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+		at java.lang.Thread.run(Thread.java:748)
+10-Oct-2022 10:35:04.349 SEVERE [http-nio-8080-exec-10] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [] threw exception [Unable to compile class for JSP: 
+
+An error occurred at line: [79] in the generated java file: [/exports/syca221574/tomcat/work/Catalina/localhost/ROOT/org/apache/jsp/Ass8Q1_jsp.java]
+Syntax error, insert "}" to complete ClassBody
+
+An error occurred at line: [69] in the jsp file: [/Ass8Q1.jsp]
+tr cannot be resolved to a type
+66: 			<%
+67: 		int i = 1;
+68: 		while(rs.next()) {
+69: 			<tr>
+70: 				<td><% out.println(i); %></td>
+71: 				<td><% out.println(rs.getString("TABLE_NAME")); %>
+72: 			</tr>
+
+
+An error occurred at line: [69] in the jsp file: [/Ass8Q1.jsp]
+Syntax error, insert "super ( ) ;" to complete BlockStatements
+66: 			<%
+67: 		int i = 1;
+68: 		while(rs.next()) {
+69: 			<tr>
+70: 				<td><% out.println(i); %></td>
+71: 				<td><% out.println(rs.getString("TABLE_NAME")); %>
+72: 			</tr>
+
+
+An error occurred at line: [69] in the jsp file: [/Ass8Q1.jsp]
+Constructor call must be the first statement in a constructor
+66: 			<%
+67: 		int i = 1;
+68: 		while(rs.next()) {
+69: 			<tr>
+70: 				<td><% out.println(i); %></td>
+71: 				<td><% out.println(rs.getString("TABLE_NAME")); %>
+72: 			</tr>
+
+
+An error occurred at line: [70] in the jsp file: [/Ass8Q1.jsp]
+Syntax error on tokens, delete these tokens
+67: 		int i = 1;
+68: 		while(rs.next()) {
+69: 			<tr>
+70: 				<td><% out.println(i); %></td>
+71: 				<td><% out.println(rs.getString("TABLE_NAME")); %>
+72: 			</tr>
+73: 			i++;
+
+
+An error occurred at line: [220] in the generated java file: [/exports/syca221574/tomcat/work/Catalina/localhost/ROOT/org/apache/jsp/Ass8Q1_jsp.java]
+Syntax error, insert "}" to complete Block
+
+An error occurred at line: [237] in the generated java file: [/exports/syca221574/tomcat/work/Catalina/localhost/ROOT/org/apache/jsp/Ass8Q1_jsp.java]
+Syntax error, insert "Finally" to complete TryStatement
+
+Stacktrace:] with root cause
+	org.apache.jasper.JasperException: Unable to compile class for JSP: 
+
+An error occurred at line: [79] in the generated java file: [/exports/syca221574/tomcat/work/Catalina/localhost/ROOT/org/apache/jsp/Ass8Q1_jsp.java]
+Syntax error, insert "}" to complete ClassBody
+
+An error occurred at line: [69] in the jsp file: [/Ass8Q1.jsp]
+tr cannot be resolved to a type
+66: 			<%
+67: 		int i = 1;
+68: 		while(rs.next()) {
+69: 			<tr>
+70: 				<td><% out.println(i); %></td>
+71: 				<td><% out.println(rs.getString("TABLE_NAME")); %>
+72: 			</tr>
+
+
+An error occurred at line: [69] in the jsp file: [/Ass8Q1.jsp]
+Syntax error, insert "super ( ) ;" to complete BlockStatements
+66: 			<%
+67: 		int i = 1;
+68: 		while(rs.next()) {
+69: 			<tr>
+70: 				<td><% out.println(i); %></td>
+71: 				<td><% out.println(rs.getString("TABLE_NAME")); %>
+72: 			</tr>
+
+
+An error occurred at line: [69] in the jsp file: [/Ass8Q1.jsp]
+Constructor call must be the first statement in a constructor
+66: 			<%
+67: 		int i = 1;
+68: 		while(rs.next()) {
+69: 			<tr>
+70: 				<td><% out.println(i); %></td>
+71: 				<td><% out.println(rs.getString("TABLE_NAME")); %>
+72: 			</tr>
+
+
+An error occurred at line: [70] in the jsp file: [/Ass8Q1.jsp]
+Syntax error on tokens, delete these tokens
+67: 		int i = 1;
+68: 		while(rs.next()) {
+69: 			<tr>
+70: 				<td><% out.println(i); %></td>
+71: 				<td><% out.println(rs.getString("TABLE_NAME")); %>
+72: 			</tr>
+73: 			i++;
+
+
+An error occurred at line: [220] in the generated java file: [/exports/syca221574/tomcat/work/Catalina/localhost/ROOT/org/apache/jsp/Ass8Q1_jsp.java]
+Syntax error, insert "}" to complete Block
+
+An error occurred at line: [237] in the generated java file: [/exports/syca221574/tomcat/work/Catalina/localhost/ROOT/org/apache/jsp/Ass8Q1_jsp.java]
+Syntax error, insert "Finally" to complete TryStatement
+
+Stacktrace:
+		at org.apache.jasper.compiler.DefaultErrorHandler.javacError(DefaultErrorHandler.java:102)
+		at org.apache.jasper.compiler.ErrorDispatcher.javacError(ErrorDispatcher.java:213)
+		at org.apache.jasper.compiler.JDTCompiler.generateClass(JDTCompiler.java:569)
+		at org.apache.jasper.compiler.Compiler.compile(Compiler.java:380)
+		at org.apache.jasper.compiler.Compiler.compile(Compiler.java:350)
+		at org.apache.jasper.compiler.Compiler.compile(Compiler.java:334)
+		at org.apache.jasper.JspCompilationContext.compile(JspCompilationContext.java:597)
+		at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:398)
+		at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:383)
+		at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:331)
+		at javax.servlet.http.HttpServlet.service(HttpServlet.java:764)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+		at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+		at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:197)
+		at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+		at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:543)
+		at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:135)
+		at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:81)
+		at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:698)
+		at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+		at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:366)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:639)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:881)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1647)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+		at java.lang.Thread.run(Thread.java:748)
+10-Oct-2022 10:36:00.751 SEVERE [http-nio-8080-exec-9] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [] threw exception [Unable to compile class for JSP: 
+
+An error occurred at line: [79] in the generated java file: [/exports/syca221574/tomcat/work/Catalina/localhost/ROOT/org/apache/jsp/Ass8Q1_jsp.java]
+Syntax error, insert "}" to complete ClassBody
+
+An error occurred at line: [64] in the jsp file: [/Ass8Q1.jsp]
+tr cannot be resolved to a type
+61: 			<%
+62: 		int i = 1;
+63: 		while(rs.next()) {
+64: 			<tr>
+65: 				<td><% out.println(i); %></td>
+66: 				<td><% out.println(rs.getString("TABLE_NAME")); %>
+67: 			</tr>
+
+
+An error occurred at line: [64] in the jsp file: [/Ass8Q1.jsp]
+Syntax error, insert "super ( ) ;" to complete BlockStatements
+61: 			<%
+62: 		int i = 1;
+63: 		while(rs.next()) {
+64: 			<tr>
+65: 				<td><% out.println(i); %></td>
+66: 				<td><% out.println(rs.getString("TABLE_NAME")); %>
+67: 			</tr>
+
+
+An error occurred at line: [64] in the jsp file: [/Ass8Q1.jsp]
+Constructor call must be the first statement in a constructor
+61: 			<%
+62: 		int i = 1;
+63: 		while(rs.next()) {
+64: 			<tr>
+65: 				<td><% out.println(i); %></td>
+66: 				<td><% out.println(rs.getString("TABLE_NAME")); %>
+67: 			</tr>
+
+
+An error occurred at line: [65] in the jsp file: [/Ass8Q1.jsp]
+Syntax error on tokens, delete these tokens
+62: 		int i = 1;
+63: 		while(rs.next()) {
+64: 			<tr>
+65: 				<td><% out.println(i); %></td>
+66: 				<td><% out.println(rs.getString("TABLE_NAME")); %>
+67: 			</tr>
+68: 			i++;
+
+
+An error occurred at line: [211] in the generated java file: [/exports/syca221574/tomcat/work/Catalina/localhost/ROOT/org/apache/jsp/Ass8Q1_jsp.java]
+Syntax error, insert "}" to complete Block
+
+An error occurred at line: [228] in the generated java file: [/exports/syca221574/tomcat/work/Catalina/localhost/ROOT/org/apache/jsp/Ass8Q1_jsp.java]
+Syntax error, insert "Finally" to complete TryStatement
+
+Stacktrace:] with root cause
+	org.apache.jasper.JasperException: Unable to compile class for JSP: 
+
+An error occurred at line: [79] in the generated java file: [/exports/syca221574/tomcat/work/Catalina/localhost/ROOT/org/apache/jsp/Ass8Q1_jsp.java]
+Syntax error, insert "}" to complete ClassBody
+
+An error occurred at line: [64] in the jsp file: [/Ass8Q1.jsp]
+tr cannot be resolved to a type
+61: 			<%
+62: 		int i = 1;
+63: 		while(rs.next()) {
+64: 			<tr>
+65: 				<td><% out.println(i); %></td>
+66: 				<td><% out.println(rs.getString("TABLE_NAME")); %>
+67: 			</tr>
+
+
+An error occurred at line: [64] in the jsp file: [/Ass8Q1.jsp]
+Syntax error, insert "super ( ) ;" to complete BlockStatements
+61: 			<%
+62: 		int i = 1;
+63: 		while(rs.next()) {
+64: 			<tr>
+65: 				<td><% out.println(i); %></td>
+66: 				<td><% out.println(rs.getString("TABLE_NAME")); %>
+67: 			</tr>
+
+
+An error occurred at line: [64] in the jsp file: [/Ass8Q1.jsp]
+Constructor call must be the first statement in a constructor
+61: 			<%
+62: 		int i = 1;
+63: 		while(rs.next()) {
+64: 			<tr>
+65: 				<td><% out.println(i); %></td>
+66: 				<td><% out.println(rs.getString("TABLE_NAME")); %>
+67: 			</tr>
+
+
+An error occurred at line: [65] in the jsp file: [/Ass8Q1.jsp]
+Syntax error on tokens, delete these tokens
+62: 		int i = 1;
+63: 		while(rs.next()) {
+64: 			<tr>
+65: 				<td><% out.println(i); %></td>
+66: 				<td><% out.println(rs.getString("TABLE_NAME")); %>
+67: 			</tr>
+68: 			i++;
+
+
+An error occurred at line: [211] in the generated java file: [/exports/syca221574/tomcat/work/Catalina/localhost/ROOT/org/apache/jsp/Ass8Q1_jsp.java]
+Syntax error, insert "}" to complete Block
+
+An error occurred at line: [228] in the generated java file: [/exports/syca221574/tomcat/work/Catalina/localhost/ROOT/org/apache/jsp/Ass8Q1_jsp.java]
+Syntax error, insert "Finally" to complete TryStatement
+
+Stacktrace:
+		at org.apache.jasper.compiler.DefaultErrorHandler.javacError(DefaultErrorHandler.java:102)
+		at org.apache.jasper.compiler.ErrorDispatcher.javacError(ErrorDispatcher.java:213)
+		at org.apache.jasper.compiler.JDTCompiler.generateClass(JDTCompiler.java:569)
+		at org.apache.jasper.compiler.Compiler.compile(Compiler.java:380)
+		at org.apache.jasper.compiler.Compiler.compile(Compiler.java:350)
+		at org.apache.jasper.compiler.Compiler.compile(Compiler.java:334)
+		at org.apache.jasper.JspCompilationContext.compile(JspCompilationContext.java:597)
+		at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:398)
+		at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:383)
+		at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:331)
+		at javax.servlet.http.HttpServlet.service(HttpServlet.java:764)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+		at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+		at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:197)
+		at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+		at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:543)
+		at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:135)
+		at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:81)
+		at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:698)
+		at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+		at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:366)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:639)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:881)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1647)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+		at java.lang.Thread.run(Thread.java:748)
+10-Oct-2022 10:36:19.052 INFO [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log SessionListener: contextDestroyed()
+10-Oct-2022 10:36:19.053 INFO [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log ContextListener: contextDestroyed()
+10-Oct-2022 10:36:23.724 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+10-Oct-2022 10:36:23.724 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+10-Oct-2022 10:36:23.726 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@3f7d56a8')
+10-Oct-2022 10:36:35.094 SEVERE [http-nio-8080-exec-1] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [] threw exception [Unable to compile class for JSP: 
+
+An error occurred at line: [79] in the generated java file: [/exports/syca221574/tomcat/work/Catalina/localhost/ROOT/org/apache/jsp/Ass8Q1_jsp.java]
+Syntax error, insert "}" to complete ClassBody
+
+An error occurred at line: [64] in the jsp file: [/Ass8Q1.jsp]
+tr cannot be resolved to a type
+61: 			<%
+62: 		int i = 1;
+63: 		while(rs.next()) {
+64: 			<tr>
+65: 				<td><% out.println(i); %></td>
+66: 				<td><% out.println(rs.getString("TABLE_NAME")); %>
+67: 			</tr>
+
+
+An error occurred at line: [64] in the jsp file: [/Ass8Q1.jsp]
+Syntax error, insert "super ( ) ;" to complete BlockStatements
+61: 			<%
+62: 		int i = 1;
+63: 		while(rs.next()) {
+64: 			<tr>
+65: 				<td><% out.println(i); %></td>
+66: 				<td><% out.println(rs.getString("TABLE_NAME")); %>
+67: 			</tr>
+
+
+An error occurred at line: [64] in the jsp file: [/Ass8Q1.jsp]
+Constructor call must be the first statement in a constructor
+61: 			<%
+62: 		int i = 1;
+63: 		while(rs.next()) {
+64: 			<tr>
+65: 				<td><% out.println(i); %></td>
+66: 				<td><% out.println(rs.getString("TABLE_NAME")); %>
+67: 			</tr>
+
+
+An error occurred at line: [65] in the jsp file: [/Ass8Q1.jsp]
+Syntax error on tokens, delete these tokens
+62: 		int i = 1;
+63: 		while(rs.next()) {
+64: 			<tr>
+65: 				<td><% out.println(i); %></td>
+66: 				<td><% out.println(rs.getString("TABLE_NAME")); %>
+67: 			</tr>
+68: 			i++;
+
+
+An error occurred at line: [211] in the generated java file: [/exports/syca221574/tomcat/work/Catalina/localhost/ROOT/org/apache/jsp/Ass8Q1_jsp.java]
+Syntax error, insert "}" to complete Block
+
+An error occurred at line: [228] in the generated java file: [/exports/syca221574/tomcat/work/Catalina/localhost/ROOT/org/apache/jsp/Ass8Q1_jsp.java]
+Syntax error, insert "Finally" to complete TryStatement
+
+Stacktrace:] with root cause
+	org.apache.jasper.JasperException: Unable to compile class for JSP: 
+
+An error occurred at line: [79] in the generated java file: [/exports/syca221574/tomcat/work/Catalina/localhost/ROOT/org/apache/jsp/Ass8Q1_jsp.java]
+Syntax error, insert "}" to complete ClassBody
+
+An error occurred at line: [64] in the jsp file: [/Ass8Q1.jsp]
+tr cannot be resolved to a type
+61: 			<%
+62: 		int i = 1;
+63: 		while(rs.next()) {
+64: 			<tr>
+65: 				<td><% out.println(i); %></td>
+66: 				<td><% out.println(rs.getString("TABLE_NAME")); %>
+67: 			</tr>
+
+
+An error occurred at line: [64] in the jsp file: [/Ass8Q1.jsp]
+Syntax error, insert "super ( ) ;" to complete BlockStatements
+61: 			<%
+62: 		int i = 1;
+63: 		while(rs.next()) {
+64: 			<tr>
+65: 				<td><% out.println(i); %></td>
+66: 				<td><% out.println(rs.getString("TABLE_NAME")); %>
+67: 			</tr>
+
+
+An error occurred at line: [64] in the jsp file: [/Ass8Q1.jsp]
+Constructor call must be the first statement in a constructor
+61: 			<%
+62: 		int i = 1;
+63: 		while(rs.next()) {
+64: 			<tr>
+65: 				<td><% out.println(i); %></td>
+66: 				<td><% out.println(rs.getString("TABLE_NAME")); %>
+67: 			</tr>
+
+
+An error occurred at line: [65] in the jsp file: [/Ass8Q1.jsp]
+Syntax error on tokens, delete these tokens
+62: 		int i = 1;
+63: 		while(rs.next()) {
+64: 			<tr>
+65: 				<td><% out.println(i); %></td>
+66: 				<td><% out.println(rs.getString("TABLE_NAME")); %>
+67: 			</tr>
+68: 			i++;
+
+
+An error occurred at line: [211] in the generated java file: [/exports/syca221574/tomcat/work/Catalina/localhost/ROOT/org/apache/jsp/Ass8Q1_jsp.java]
+Syntax error, insert "}" to complete Block
+
+An error occurred at line: [228] in the generated java file: [/exports/syca221574/tomcat/work/Catalina/localhost/ROOT/org/apache/jsp/Ass8Q1_jsp.java]
+Syntax error, insert "Finally" to complete TryStatement
+
+Stacktrace:
+		at org.apache.jasper.compiler.DefaultErrorHandler.javacError(DefaultErrorHandler.java:102)
+		at org.apache.jasper.compiler.ErrorDispatcher.javacError(ErrorDispatcher.java:213)
+		at org.apache.jasper.compiler.JDTCompiler.generateClass(JDTCompiler.java:569)
+		at org.apache.jasper.compiler.Compiler.compile(Compiler.java:380)
+		at org.apache.jasper.compiler.Compiler.compile(Compiler.java:350)
+		at org.apache.jasper.compiler.Compiler.compile(Compiler.java:334)
+		at org.apache.jasper.JspCompilationContext.compile(JspCompilationContext.java:597)
+		at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:398)
+		at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:383)
+		at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:331)
+		at javax.servlet.http.HttpServlet.service(HttpServlet.java:764)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+		at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+		at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:197)
+		at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+		at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:543)
+		at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:135)
+		at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:81)
+		at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:698)
+		at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+		at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:366)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:639)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:881)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1647)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+		at java.lang.Thread.run(Thread.java:748)
+10-Oct-2022 10:41:03.487 INFO [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log SessionListener: contextDestroyed()
+10-Oct-2022 10:41:03.487 INFO [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log ContextListener: contextDestroyed()
+10-Oct-2022 10:41:07.279 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+10-Oct-2022 10:41:07.279 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+10-Oct-2022 10:41:07.281 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@37bf11e5')
+10-Oct-2022 10:41:12.903 SEVERE [http-nio-8080-exec-1] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [] threw exception [Unable to compile class for JSP: 
+
+An error occurred at line: [79] in the generated java file: [/exports/syca221574/tomcat/work/Catalina/localhost/ROOT/org/apache/jsp/eg_jsp.java]
+Syntax error, insert "}" to complete ClassBody
+
+An error occurred at line: [48] in the jsp file: [/eg.jsp]
+Syntax error on tokens, delete these tokens
+45: <td>5</td>
+46: <td>Database Product Version</td>
+47: <td><% out.println(dbmt.getDatabaseProductVersion());
+48: 1</tr>
+49: </table>
+50: <br>
+51: <h3>Table Name</h3><br>
+
+
+An error occurred at line: [50] in the jsp file: [/eg.jsp]
+Syntax error on token(s), misplaced construct(s)
+47: <td><% out.println(dbmt.getDatabaseProductVersion());
+48: 1</tr>
+49: </table>
+50: <br>
+51: <h3>Table Name</h3><br>
+52: <table border="1">
+53: <tr>
+
+
+An error occurred at line: [51] in the jsp file: [/eg.jsp]
+h3 cannot be resolved to a type
+48: 1</tr>
+49: </table>
+50: <br>
+51: <h3>Table Name</h3><br>
+52: <table border="1">
+53: <tr>
+54: <th>SR No.</th>
+
+
+An error occurred at line: [51] in the jsp file: [/eg.jsp]
+Syntax error, insert "super ( ) ;" to complete Statement
+48: 1</tr>
+49: </table>
+50: <br>
+51: <h3>Table Name</h3><br>
+52: <table border="1">
+53: <tr>
+54: <th>SR No.</th>
+
+
+An error occurred at line: [51] in the jsp file: [/eg.jsp]
+Syntax error on token "Table", throw expected
+48: 1</tr>
+49: </table>
+50: <br>
+51: <h3>Table Name</h3><br>
+52: <table border="1">
+53: <tr>
+54: <th>SR No.</th>
+
+
+An error occurred at line: [51] in the jsp file: [/eg.jsp]
+Constructor call must be the first statement in a constructor
+48: 1</tr>
+49: </table>
+50: <br>
+51: <h3>Table Name</h3><br>
+52: <table border="1">
+53: <tr>
+54: <th>SR No.</th>
+
+
+An error occurred at line: [51] in the jsp file: [/eg.jsp]
+Name cannot be resolved to a variable
+48: 1</tr>
+49: </table>
+50: <br>
+51: <h3>Table Name</h3><br>
+52: <table border="1">
+53: <tr>
+54: <th>SR No.</th>
+
+
+An error occurred at line: [51] in the jsp file: [/eg.jsp]
+Syntax error on token "/", delete this token
+48: 1</tr>
+49: </table>
+50: <br>
+51: <h3>Table Name</h3><br>
+52: <table border="1">
+53: <tr>
+54: <th>SR No.</th>
+
+
+An error occurred at line: [51] in the jsp file: [/eg.jsp]
+h3 cannot be resolved to a variable
+48: 1</tr>
+49: </table>
+50: <br>
+51: <h3>Table Name</h3><br>
+52: <table border="1">
+53: <tr>
+54: <th>SR No.</th>
+
+
+An error occurred at line: [51] in the jsp file: [/eg.jsp]
+Syntax error on token "<", delete this token
+48: 1</tr>
+49: </table>
+50: <br>
+51: <h3>Table Name</h3><br>
+52: <table border="1">
+53: <tr>
+54: <th>SR No.</th>
+
+
+An error occurred at line: [51] in the jsp file: [/eg.jsp]
+br cannot be resolved to a variable
+48: 1</tr>
+49: </table>
+50: <br>
+51: <h3>Table Name</h3><br>
+52: <table border="1">
+53: <tr>
+54: <th>SR No.</th>
+
+
+An error occurred at line: [51] in the jsp file: [/eg.jsp]
+Syntax error on token(s), misplaced construct(s)
+48: 1</tr>
+49: </table>
+50: <br>
+51: <h3>Table Name</h3><br>
+52: <table border="1">
+53: <tr>
+54: <th>SR No.</th>
+
+
+An error occurred at line: [52] in the jsp file: [/eg.jsp]
+Syntax error, insert ";" to complete ThrowStatement
+49: </table>
+50: <br>
+51: <h3>Table Name</h3><br>
+52: <table border="1">
+53: <tr>
+54: <th>SR No.</th>
+55: <th>Table Name</th>
+
+
+An error occurred at line: [52] in the jsp file: [/eg.jsp]
+table cannot be resolved to a variable
+49: </table>
+50: <br>
+51: <h3>Table Name</h3><br>
+52: <table border="1">
+53: <tr>
+54: <th>SR No.</th>
+55: <th>Table Name</th>
+
+
+An error occurred at line: [52] in the jsp file: [/eg.jsp]
+border cannot be resolved to a variable
+49: </table>
+50: <br>
+51: <h3>Table Name</h3><br>
+52: <table border="1">
+53: <tr>
+54: <th>SR No.</th>
+55: <th>Table Name</th>
+
+
+An error occurred at line: [53] in the jsp file: [/eg.jsp]
+Syntax error on token "<", delete this token
+50: <br>
+51: <h3>Table Name</h3><br>
+52: <table border="1">
+53: <tr>
+54: <th>SR No.</th>
+55: <th>Table Name</th>
+56: </tr>
+
+
+An error occurred at line: [53] in the jsp file: [/eg.jsp]
+tr cannot be resolved to a variable
+50: <br>
+51: <h3>Table Name</h3><br>
+52: <table border="1">
+53: <tr>
+54: <th>SR No.</th>
+55: <th>Table Name</th>
+56: </tr>
+
+
+An error occurred at line: [53] in the jsp file: [/eg.jsp]
+Syntax error on token(s), misplaced construct(s)
+50: <br>
+51: <h3>Table Name</h3><br>
+52: <table border="1">
+53: <tr>
+54: <th>SR No.</th>
+55: <th>Table Name</th>
+56: </tr>
+
+
+An error occurred at line: [54] in the jsp file: [/eg.jsp]
+th cannot be resolved to a variable
+51: <h3>Table Name</h3><br>
+52: <table border="1">
+53: <tr>
+54: <th>SR No.</th>
+55: <th>Table Name</th>
+56: </tr>
+57: <%
+
+
+An error occurred at line: [54] in the jsp file: [/eg.jsp]
+Syntax error, insert ":: IdentifierOrNew" to complete ReferenceExpression
+51: <h3>Table Name</h3><br>
+52: <table border="1">
+53: <tr>
+54: <th>SR No.</th>
+55: <th>Table Name</th>
+56: </tr>
+57: <%
+
+
+An error occurred at line: [54] in the jsp file: [/eg.jsp]
+Syntax error, insert ";" to complete Statement
+51: <h3>Table Name</h3><br>
+52: <table border="1">
+53: <tr>
+54: <th>SR No.</th>
+55: <th>Table Name</th>
+56: </tr>
+57: <%
+
+
+An error occurred at line: [54] in the jsp file: [/eg.jsp]
+SR cannot be resolved to a variable
+51: <h3>Table Name</h3><br>
+52: <table border="1">
+53: <tr>
+54: <th>SR No.</th>
+55: <th>Table Name</th>
+56: </tr>
+57: <%
+
+
+An error occurred at line: [54] in the jsp file: [/eg.jsp]
+Syntax error on token(s), misplaced construct(s)
+51: <h3>Table Name</h3><br>
+52: <table border="1">
+53: <tr>
+54: <th>SR No.</th>
+55: <th>Table Name</th>
+56: </tr>
+57: <%
+
+
+An error occurred at line: [54] in the jsp file: [/eg.jsp]
+Syntax error on token "/", delete this token
+51: <h3>Table Name</h3><br>
+52: <table border="1">
+53: <tr>
+54: <th>SR No.</th>
+55: <th>Table Name</th>
+56: </tr>
+57: <%
+
+
+An error occurred at line: [55] in the jsp file: [/eg.jsp]
+Syntax error on token "Table", ( expected after this token
+52: <table border="1">
+53: <tr>
+54: <th>SR No.</th>
+55: <th>Table Name</th>
+56: </tr>
+57: <%
+58: %>
+
+
+An error occurred at line: [55] in the jsp file: [/eg.jsp]
+Syntax error on token "/", delete this token
+52: <table border="1">
+53: <tr>
+54: <th>SR No.</th>
+55: <th>Table Name</th>
+56: </tr>
+57: <%
+58: %>
+
+
+An error occurred at line: [56] in the jsp file: [/eg.jsp]
+Syntax error on token "<", invalid Expression
+53: <tr>
+54: <th>SR No.</th>
+55: <th>Table Name</th>
+56: </tr>
+57: <%
+58: %>
+59: </td>
+
+
+An error occurred at line: [57] in the jsp file: [/eg.jsp]
+Syntax error on token "<", invalid Expression
+54: <th>SR No.</th>
+55: <th>Table Name</th>
+56: </tr>
+57: <%
+58: %>
+59: </td>
+60: <%
+
+
+An error occurred at line: [58] in the jsp file: [/eg.jsp]
+Syntax error, insert ")" to complete Expression
+55: <th>Table Name</th>
+56: </tr>
+57: <%
+58: %>
+59: </td>
+60: <%
+61: %>
+
+
+An error occurred at line: [66] in the jsp file: [/eg.jsp]
+Syntax error, insert "super ( ) ;" to complete BlockStatements
+63: int i = 1;
+64: while(rs.next())
+65: {
+66: <tr>
+67: <td><% out.println(i); %></td>
+68: <td><% out.println(rs.getString("TABLE_NAME")); %>
+69: </tr>
+
+
+An error occurred at line: [67] in the jsp file: [/eg.jsp]
+Syntax error on tokens, delete these tokens
+64: while(rs.next())
+65: {
+66: <tr>
+67: <td><% out.println(i); %></td>
+68: <td><% out.println(rs.getString("TABLE_NAME")); %>
+69: </tr>
+70: i++;
+
+
+An error occurred at line: [215] in the generated java file: [/exports/syca221574/tomcat/work/Catalina/localhost/ROOT/org/apache/jsp/eg_jsp.java]
+Syntax error, insert "}" to complete Block
+
+An error occurred at line: [232] in the generated java file: [/exports/syca221574/tomcat/work/Catalina/localhost/ROOT/org/apache/jsp/eg_jsp.java]
+Syntax error, insert "Finally" to complete TryStatement
+
+Stacktrace:] with root cause
+	org.apache.jasper.JasperException: Unable to compile class for JSP: 
+
+An error occurred at line: [79] in the generated java file: [/exports/syca221574/tomcat/work/Catalina/localhost/ROOT/org/apache/jsp/eg_jsp.java]
+Syntax error, insert "}" to complete ClassBody
+
+An error occurred at line: [48] in the jsp file: [/eg.jsp]
+Syntax error on tokens, delete these tokens
+45: <td>5</td>
+46: <td>Database Product Version</td>
+47: <td><% out.println(dbmt.getDatabaseProductVersion());
+48: 1</tr>
+49: </table>
+50: <br>
+51: <h3>Table Name</h3><br>
+
+
+An error occurred at line: [50] in the jsp file: [/eg.jsp]
+Syntax error on token(s), misplaced construct(s)
+47: <td><% out.println(dbmt.getDatabaseProductVersion());
+48: 1</tr>
+49: </table>
+50: <br>
+51: <h3>Table Name</h3><br>
+52: <table border="1">
+53: <tr>
+
+
+An error occurred at line: [51] in the jsp file: [/eg.jsp]
+h3 cannot be resolved to a type
+48: 1</tr>
+49: </table>
+50: <br>
+51: <h3>Table Name</h3><br>
+52: <table border="1">
+53: <tr>
+54: <th>SR No.</th>
+
+
+An error occurred at line: [51] in the jsp file: [/eg.jsp]
+Syntax error, insert "super ( ) ;" to complete Statement
+48: 1</tr>
+49: </table>
+50: <br>
+51: <h3>Table Name</h3><br>
+52: <table border="1">
+53: <tr>
+54: <th>SR No.</th>
+
+
+An error occurred at line: [51] in the jsp file: [/eg.jsp]
+Syntax error on token "Table", throw expected
+48: 1</tr>
+49: </table>
+50: <br>
+51: <h3>Table Name</h3><br>
+52: <table border="1">
+53: <tr>
+54: <th>SR No.</th>
+
+
+An error occurred at line: [51] in the jsp file: [/eg.jsp]
+Constructor call must be the first statement in a constructor
+48: 1</tr>
+49: </table>
+50: <br>
+51: <h3>Table Name</h3><br>
+52: <table border="1">
+53: <tr>
+54: <th>SR No.</th>
+
+
+An error occurred at line: [51] in the jsp file: [/eg.jsp]
+Name cannot be resolved to a variable
+48: 1</tr>
+49: </table>
+50: <br>
+51: <h3>Table Name</h3><br>
+52: <table border="1">
+53: <tr>
+54: <th>SR No.</th>
+
+
+An error occurred at line: [51] in the jsp file: [/eg.jsp]
+Syntax error on token "/", delete this token
+48: 1</tr>
+49: </table>
+50: <br>
+51: <h3>Table Name</h3><br>
+52: <table border="1">
+53: <tr>
+54: <th>SR No.</th>
+
+
+An error occurred at line: [51] in the jsp file: [/eg.jsp]
+h3 cannot be resolved to a variable
+48: 1</tr>
+49: </table>
+50: <br>
+51: <h3>Table Name</h3><br>
+52: <table border="1">
+53: <tr>
+54: <th>SR No.</th>
+
+
+An error occurred at line: [51] in the jsp file: [/eg.jsp]
+Syntax error on token "<", delete this token
+48: 1</tr>
+49: </table>
+50: <br>
+51: <h3>Table Name</h3><br>
+52: <table border="1">
+53: <tr>
+54: <th>SR No.</th>
+
+
+An error occurred at line: [51] in the jsp file: [/eg.jsp]
+br cannot be resolved to a variable
+48: 1</tr>
+49: </table>
+50: <br>
+51: <h3>Table Name</h3><br>
+52: <table border="1">
+53: <tr>
+54: <th>SR No.</th>
+
+
+An error occurred at line: [51] in the jsp file: [/eg.jsp]
+Syntax error on token(s), misplaced construct(s)
+48: 1</tr>
+49: </table>
+50: <br>
+51: <h3>Table Name</h3><br>
+52: <table border="1">
+53: <tr>
+54: <th>SR No.</th>
+
+
+An error occurred at line: [52] in the jsp file: [/eg.jsp]
+Syntax error, insert ";" to complete ThrowStatement
+49: </table>
+50: <br>
+51: <h3>Table Name</h3><br>
+52: <table border="1">
+53: <tr>
+54: <th>SR No.</th>
+55: <th>Table Name</th>
+
+
+An error occurred at line: [52] in the jsp file: [/eg.jsp]
+table cannot be resolved to a variable
+49: </table>
+50: <br>
+51: <h3>Table Name</h3><br>
+52: <table border="1">
+53: <tr>
+54: <th>SR No.</th>
+55: <th>Table Name</th>
+
+
+An error occurred at line: [52] in the jsp file: [/eg.jsp]
+border cannot be resolved to a variable
+49: </table>
+50: <br>
+51: <h3>Table Name</h3><br>
+52: <table border="1">
+53: <tr>
+54: <th>SR No.</th>
+55: <th>Table Name</th>
+
+
+An error occurred at line: [53] in the jsp file: [/eg.jsp]
+Syntax error on token "<", delete this token
+50: <br>
+51: <h3>Table Name</h3><br>
+52: <table border="1">
+53: <tr>
+54: <th>SR No.</th>
+55: <th>Table Name</th>
+56: </tr>
+
+
+An error occurred at line: [53] in the jsp file: [/eg.jsp]
+tr cannot be resolved to a variable
+50: <br>
+51: <h3>Table Name</h3><br>
+52: <table border="1">
+53: <tr>
+54: <th>SR No.</th>
+55: <th>Table Name</th>
+56: </tr>
+
+
+An error occurred at line: [53] in the jsp file: [/eg.jsp]
+Syntax error on token(s), misplaced construct(s)
+50: <br>
+51: <h3>Table Name</h3><br>
+52: <table border="1">
+53: <tr>
+54: <th>SR No.</th>
+55: <th>Table Name</th>
+56: </tr>
+
+
+An error occurred at line: [54] in the jsp file: [/eg.jsp]
+th cannot be resolved to a variable
+51: <h3>Table Name</h3><br>
+52: <table border="1">
+53: <tr>
+54: <th>SR No.</th>
+55: <th>Table Name</th>
+56: </tr>
+57: <%
+
+
+An error occurred at line: [54] in the jsp file: [/eg.jsp]
+Syntax error, insert ":: IdentifierOrNew" to complete ReferenceExpression
+51: <h3>Table Name</h3><br>
+52: <table border="1">
+53: <tr>
+54: <th>SR No.</th>
+55: <th>Table Name</th>
+56: </tr>
+57: <%
+
+
+An error occurred at line: [54] in the jsp file: [/eg.jsp]
+Syntax error, insert ";" to complete Statement
+51: <h3>Table Name</h3><br>
+52: <table border="1">
+53: <tr>
+54: <th>SR No.</th>
+55: <th>Table Name</th>
+56: </tr>
+57: <%
+
+
+An error occurred at line: [54] in the jsp file: [/eg.jsp]
+SR cannot be resolved to a variable
+51: <h3>Table Name</h3><br>
+52: <table border="1">
+53: <tr>
+54: <th>SR No.</th>
+55: <th>Table Name</th>
+56: </tr>
+57: <%
+
+
+An error occurred at line: [54] in the jsp file: [/eg.jsp]
+Syntax error on token(s), misplaced construct(s)
+51: <h3>Table Name</h3><br>
+52: <table border="1">
+53: <tr>
+54: <th>SR No.</th>
+55: <th>Table Name</th>
+56: </tr>
+57: <%
+
+
+An error occurred at line: [54] in the jsp file: [/eg.jsp]
+Syntax error on token "/", delete this token
+51: <h3>Table Name</h3><br>
+52: <table border="1">
+53: <tr>
+54: <th>SR No.</th>
+55: <th>Table Name</th>
+56: </tr>
+57: <%
+
+
+An error occurred at line: [55] in the jsp file: [/eg.jsp]
+Syntax error on token "Table", ( expected after this token
+52: <table border="1">
+53: <tr>
+54: <th>SR No.</th>
+55: <th>Table Name</th>
+56: </tr>
+57: <%
+58: %>
+
+
+An error occurred at line: [55] in the jsp file: [/eg.jsp]
+Syntax error on token "/", delete this token
+52: <table border="1">
+53: <tr>
+54: <th>SR No.</th>
+55: <th>Table Name</th>
+56: </tr>
+57: <%
+58: %>
+
+
+An error occurred at line: [56] in the jsp file: [/eg.jsp]
+Syntax error on token "<", invalid Expression
+53: <tr>
+54: <th>SR No.</th>
+55: <th>Table Name</th>
+56: </tr>
+57: <%
+58: %>
+59: </td>
+
+
+An error occurred at line: [57] in the jsp file: [/eg.jsp]
+Syntax error on token "<", invalid Expression
+54: <th>SR No.</th>
+55: <th>Table Name</th>
+56: </tr>
+57: <%
+58: %>
+59: </td>
+60: <%
+
+
+An error occurred at line: [58] in the jsp file: [/eg.jsp]
+Syntax error, insert ")" to complete Expression
+55: <th>Table Name</th>
+56: </tr>
+57: <%
+58: %>
+59: </td>
+60: <%
+61: %>
+
+
+An error occurred at line: [66] in the jsp file: [/eg.jsp]
+Syntax error, insert "super ( ) ;" to complete BlockStatements
+63: int i = 1;
+64: while(rs.next())
+65: {
+66: <tr>
+67: <td><% out.println(i); %></td>
+68: <td><% out.println(rs.getString("TABLE_NAME")); %>
+69: </tr>
+
+
+An error occurred at line: [67] in the jsp file: [/eg.jsp]
+Syntax error on tokens, delete these tokens
+64: while(rs.next())
+65: {
+66: <tr>
+67: <td><% out.println(i); %></td>
+68: <td><% out.println(rs.getString("TABLE_NAME")); %>
+69: </tr>
+70: i++;
+
+
+An error occurred at line: [215] in the generated java file: [/exports/syca221574/tomcat/work/Catalina/localhost/ROOT/org/apache/jsp/eg_jsp.java]
+Syntax error, insert "}" to complete Block
+
+An error occurred at line: [232] in the generated java file: [/exports/syca221574/tomcat/work/Catalina/localhost/ROOT/org/apache/jsp/eg_jsp.java]
+Syntax error, insert "Finally" to complete TryStatement
+
+Stacktrace:
+		at org.apache.jasper.compiler.DefaultErrorHandler.javacError(DefaultErrorHandler.java:102)
+		at org.apache.jasper.compiler.ErrorDispatcher.javacError(ErrorDispatcher.java:213)
+		at org.apache.jasper.compiler.JDTCompiler.generateClass(JDTCompiler.java:569)
+		at org.apache.jasper.compiler.Compiler.compile(Compiler.java:380)
+		at org.apache.jasper.compiler.Compiler.compile(Compiler.java:350)
+		at org.apache.jasper.compiler.Compiler.compile(Compiler.java:334)
+		at org.apache.jasper.JspCompilationContext.compile(JspCompilationContext.java:597)
+		at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:398)
+		at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:383)
+		at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:331)
+		at javax.servlet.http.HttpServlet.service(HttpServlet.java:764)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+		at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+		at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:197)
+		at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+		at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:543)
+		at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:135)
+		at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:81)
+		at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:698)
+		at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+		at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:366)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:639)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:881)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1647)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+		at java.lang.Thread.run(Thread.java:748)
+10-Oct-2022 10:54:22.886 INFO [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log SessionListener: contextDestroyed()
+10-Oct-2022 10:54:22.886 INFO [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log ContextListener: contextDestroyed()
+10-Oct-2022 10:54:26.060 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+10-Oct-2022 10:54:26.060 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+10-Oct-2022 10:54:26.062 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@b6c826d')
+10-Oct-2022 10:57:41.450 INFO [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log SessionListener: contextDestroyed()
+10-Oct-2022 10:57:41.450 INFO [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log ContextListener: contextDestroyed()
+10-Oct-2022 10:57:44.757 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+10-Oct-2022 10:57:44.757 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+10-Oct-2022 10:57:44.759 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@7fa0fb86')
+10-Oct-2022 11:44:29.215 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+10-Oct-2022 11:44:29.215 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+10-Oct-2022 11:44:29.218 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@3ced55bf')
+10-Oct-2022 11:44:30.445 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log SessionListener: contextDestroyed()
+10-Oct-2022 11:44:30.445 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log ContextListener: contextDestroyed()
+10-Oct-2022 11:44:31.219 INFO [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log SessionListener: contextDestroyed()
+10-Oct-2022 11:44:31.219 INFO [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log ContextListener: contextDestroyed()
+10-Oct-2022 11:44:34.720 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+10-Oct-2022 11:44:34.720 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+10-Oct-2022 11:44:34.722 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@32066c7a')
+10-Oct-2022 11:44:53.500 SEVERE [http-nio-8080-exec-2] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [] threw exception [Unable to compile class for JSP: 
+
+An error occurred at line: [77] in the generated java file: [/exports/syca221574/tomcat/work/Catalina/localhost/ROOT/org/apache/jsp/Ass8Q3_jsp.java]
+Syntax error, insert "}" to complete ClassBody
+
+An error occurred at line: [7] in the jsp file: [/Ass8Q3.jsp]
+Connection cannot be resolved to a type
+4: <html>
+5: 	<body>
+6: 		<%
+7: 			Connection cn = null;
+8: 			
+9: 			try {
+10: 				Class.forName("com.mysql.cj.jdbc.Driver");
+
+
+An error occurred at line: [11] in the jsp file: [/Ass8Q3.jsp]
+DriverManager cannot be resolved
+8: 			
+9: 			try {
+10: 				Class.forName("com.mysql.cj.jdbc.Driver");
+11: 				cn = DriverManager.getConnection("jdbc:mysql://192.168.28.3:3306/syca221574", "syca221574","");
+12: 				DatabaseMetaData dbmt = cn.getMetaData();
+13: 				ResultSet rs = dbmt.getTables(null,null,null,new String[]{"TABLE"});
+14: 		%>
+
+
+An error occurred at line: [12] in the jsp file: [/Ass8Q3.jsp]
+DatabaseMetaData cannot be resolved to a type
+9: 			try {
+10: 				Class.forName("com.mysql.cj.jdbc.Driver");
+11: 				cn = DriverManager.getConnection("jdbc:mysql://192.168.28.3:3306/syca221574", "syca221574","");
+12: 				DatabaseMetaData dbmt = cn.getMetaData();
+13: 				ResultSet rs = dbmt.getTables(null,null,null,new String[]{"TABLE"});
+14: 		%>
+15: 
+
+
+An error occurred at line: [13] in the jsp file: [/Ass8Q3.jsp]
+ResultSet cannot be resolved to a type
+10: 				Class.forName("com.mysql.cj.jdbc.Driver");
+11: 				cn = DriverManager.getConnection("jdbc:mysql://192.168.28.3:3306/syca221574", "syca221574","");
+12: 				DatabaseMetaData dbmt = cn.getMetaData();
+13: 				ResultSet rs = dbmt.getTables(null,null,null,new String[]{"TABLE"});
+14: 		%>
+15: 
+16: 		<h3>Database Information</h3><br>
+
+
+An error occurred at line: [59] in the jsp file: [/Ass8Q3.jsp]
+tr cannot be resolved to a type
+56: 			</tr>
+57: 			<% int i = 1;
+58: 				while(rs.next()) {
+59: 					<tr>
+60: 						<td><% out.println(i); %></td>
+61: 						<td><% out.println(rs.getString("TABLE_NAME")); %>
+62: 					</tr>
+
+
+An error occurred at line: [59] in the jsp file: [/Ass8Q3.jsp]
+Syntax error, insert "super ( ) ;" to complete BlockStatements
+56: 			</tr>
+57: 			<% int i = 1;
+58: 				while(rs.next()) {
+59: 					<tr>
+60: 						<td><% out.println(i); %></td>
+61: 						<td><% out.println(rs.getString("TABLE_NAME")); %>
+62: 					</tr>
+
+
+An error occurred at line: [59] in the jsp file: [/Ass8Q3.jsp]
+Constructor call must be the first statement in a constructor
+56: 			</tr>
+57: 			<% int i = 1;
+58: 				while(rs.next()) {
+59: 					<tr>
+60: 						<td><% out.println(i); %></td>
+61: 						<td><% out.println(rs.getString("TABLE_NAME")); %>
+62: 					</tr>
+
+
+An error occurred at line: [60] in the jsp file: [/Ass8Q3.jsp]
+Syntax error on tokens, delete these tokens
+57: 			<% int i = 1;
+58: 				while(rs.next()) {
+59: 					<tr>
+60: 						<td><% out.println(i); %></td>
+61: 						<td><% out.println(rs.getString("TABLE_NAME")); %>
+62: 					</tr>
+63: 					i++;
+
+
+An error occurred at line: [202] in the generated java file: [/exports/syca221574/tomcat/work/Catalina/localhost/ROOT/org/apache/jsp/Ass8Q3_jsp.java]
+Syntax error, insert "}" to complete Block
+
+An error occurred at line: [219] in the generated java file: [/exports/syca221574/tomcat/work/Catalina/localhost/ROOT/org/apache/jsp/Ass8Q3_jsp.java]
+Syntax error, insert "Finally" to complete TryStatement
+
+Stacktrace:] with root cause
+	org.apache.jasper.JasperException: Unable to compile class for JSP: 
+
+An error occurred at line: [77] in the generated java file: [/exports/syca221574/tomcat/work/Catalina/localhost/ROOT/org/apache/jsp/Ass8Q3_jsp.java]
+Syntax error, insert "}" to complete ClassBody
+
+An error occurred at line: [7] in the jsp file: [/Ass8Q3.jsp]
+Connection cannot be resolved to a type
+4: <html>
+5: 	<body>
+6: 		<%
+7: 			Connection cn = null;
+8: 			
+9: 			try {
+10: 				Class.forName("com.mysql.cj.jdbc.Driver");
+
+
+An error occurred at line: [11] in the jsp file: [/Ass8Q3.jsp]
+DriverManager cannot be resolved
+8: 			
+9: 			try {
+10: 				Class.forName("com.mysql.cj.jdbc.Driver");
+11: 				cn = DriverManager.getConnection("jdbc:mysql://192.168.28.3:3306/syca221574", "syca221574","");
+12: 				DatabaseMetaData dbmt = cn.getMetaData();
+13: 				ResultSet rs = dbmt.getTables(null,null,null,new String[]{"TABLE"});
+14: 		%>
+
+
+An error occurred at line: [12] in the jsp file: [/Ass8Q3.jsp]
+DatabaseMetaData cannot be resolved to a type
+9: 			try {
+10: 				Class.forName("com.mysql.cj.jdbc.Driver");
+11: 				cn = DriverManager.getConnection("jdbc:mysql://192.168.28.3:3306/syca221574", "syca221574","");
+12: 				DatabaseMetaData dbmt = cn.getMetaData();
+13: 				ResultSet rs = dbmt.getTables(null,null,null,new String[]{"TABLE"});
+14: 		%>
+15: 
+
+
+An error occurred at line: [13] in the jsp file: [/Ass8Q3.jsp]
+ResultSet cannot be resolved to a type
+10: 				Class.forName("com.mysql.cj.jdbc.Driver");
+11: 				cn = DriverManager.getConnection("jdbc:mysql://192.168.28.3:3306/syca221574", "syca221574","");
+12: 				DatabaseMetaData dbmt = cn.getMetaData();
+13: 				ResultSet rs = dbmt.getTables(null,null,null,new String[]{"TABLE"});
+14: 		%>
+15: 
+16: 		<h3>Database Information</h3><br>
+
+
+An error occurred at line: [59] in the jsp file: [/Ass8Q3.jsp]
+tr cannot be resolved to a type
+56: 			</tr>
+57: 			<% int i = 1;
+58: 				while(rs.next()) {
+59: 					<tr>
+60: 						<td><% out.println(i); %></td>
+61: 						<td><% out.println(rs.getString("TABLE_NAME")); %>
+62: 					</tr>
+
+
+An error occurred at line: [59] in the jsp file: [/Ass8Q3.jsp]
+Syntax error, insert "super ( ) ;" to complete BlockStatements
+56: 			</tr>
+57: 			<% int i = 1;
+58: 				while(rs.next()) {
+59: 					<tr>
+60: 						<td><% out.println(i); %></td>
+61: 						<td><% out.println(rs.getString("TABLE_NAME")); %>
+62: 					</tr>
+
+
+An error occurred at line: [59] in the jsp file: [/Ass8Q3.jsp]
+Constructor call must be the first statement in a constructor
+56: 			</tr>
+57: 			<% int i = 1;
+58: 				while(rs.next()) {
+59: 					<tr>
+60: 						<td><% out.println(i); %></td>
+61: 						<td><% out.println(rs.getString("TABLE_NAME")); %>
+62: 					</tr>
+
+
+An error occurred at line: [60] in the jsp file: [/Ass8Q3.jsp]
+Syntax error on tokens, delete these tokens
+57: 			<% int i = 1;
+58: 				while(rs.next()) {
+59: 					<tr>
+60: 						<td><% out.println(i); %></td>
+61: 						<td><% out.println(rs.getString("TABLE_NAME")); %>
+62: 					</tr>
+63: 					i++;
+
+
+An error occurred at line: [202] in the generated java file: [/exports/syca221574/tomcat/work/Catalina/localhost/ROOT/org/apache/jsp/Ass8Q3_jsp.java]
+Syntax error, insert "}" to complete Block
+
+An error occurred at line: [219] in the generated java file: [/exports/syca221574/tomcat/work/Catalina/localhost/ROOT/org/apache/jsp/Ass8Q3_jsp.java]
+Syntax error, insert "Finally" to complete TryStatement
+
+Stacktrace:
+		at org.apache.jasper.compiler.DefaultErrorHandler.javacError(DefaultErrorHandler.java:102)
+		at org.apache.jasper.compiler.ErrorDispatcher.javacError(ErrorDispatcher.java:213)
+		at org.apache.jasper.compiler.JDTCompiler.generateClass(JDTCompiler.java:569)
+		at org.apache.jasper.compiler.Compiler.compile(Compiler.java:380)
+		at org.apache.jasper.compiler.Compiler.compile(Compiler.java:350)
+		at org.apache.jasper.compiler.Compiler.compile(Compiler.java:334)
+		at org.apache.jasper.JspCompilationContext.compile(JspCompilationContext.java:597)
+		at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:398)
+		at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:383)
+		at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:331)
+		at javax.servlet.http.HttpServlet.service(HttpServlet.java:764)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+		at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+		at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:197)
+		at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+		at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:543)
+		at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:135)
+		at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:81)
+		at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:698)
+		at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+		at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:366)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:639)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:881)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1647)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+		at java.lang.Thread.run(Thread.java:748)

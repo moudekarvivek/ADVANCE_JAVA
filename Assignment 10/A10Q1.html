@@ -1,0 +1,59 @@
+<!DOCTYPE html>  
+<html>  
+<head>  
+  <title>Departmental Festival Registeration Form</title>
+</head>  
+<body>  
+<form action="A10Q1.jsp" method="post">  
+  
+  <center>  <h1> Departmental Festival Registeration Form</h1> </center>  
+  <hr>
+  <br><br>
+<label> Roll No: </label>   
+	<input type="text" name="rollno" placeholder="Roll No" size="15" required />
+<br><br>
+	<label> First Name </label>   
+<input type="text" name="fname" placeholder= "First Name" size="15" required />
+<br><br>    
+	<label> Last Name: </label>    
+<input type="text" name="lname" placeholder="Last Name" size="15"required />
+<br><br>
+	<label> Phone Number: </label>    
+<input type="text" name="phone" placeholder="Phone Number" size="12"required /> 
+<br><br>
+<label for="course">Choose a course:</label>
+        <select name="course" id="course" required>
+          <option value="BCS">BCS</option>
+          <option value="MCA">MCA</option>
+          <option value="MCS">MCS</option>
+          <option value="MSc(DS)">MSc(DS)</option>
+          <option value="IMCA">IMCA</option>
+        </select>
+
+		<br><br><label for="year">Year : </label>
+	    <select name="year" id="year" required>
+            <option value="FY">FY</option>
+            <option value="SY">SY</option>
+            <option value="TY">TY</option>
+      	</select><br><br>
+<div>  
+<label>   
+Choose competition you want to participate :  
+</label>   
+  
+<select name="competition" id="competition">  
+	<option value="Programming Competition">Programming Competition</option>  
+	<option value="Project Competition">Project Competition</option>  
+	<option value="Encryption and Decryption">Encryption and Decryption</option>  
+	<option value="Bits and Bytes">Bits and Bytes</option>  
+</select>
+  
+</div>  
+<br><br>
+<button type="submit" class="registerbtn">Register</button>  
+<input type="Reset" value="Reset">  
+</form>  
+</body>  
+<br><br><a href=A10.html>Main Page</a>
+</html>  
+

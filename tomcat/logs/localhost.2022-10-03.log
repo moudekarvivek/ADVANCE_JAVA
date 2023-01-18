@@ -1,0 +1,679 @@
+03-Oct-2022 08:56:07.356 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+03-Oct-2022 08:56:07.356 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+03-Oct-2022 08:56:07.359 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@22a4793')
+03-Oct-2022 09:01:08.879 INFO [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log SessionListener: contextDestroyed()
+03-Oct-2022 09:01:08.879 INFO [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log ContextListener: contextDestroyed()
+03-Oct-2022 09:01:15.390 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+03-Oct-2022 09:01:15.391 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+03-Oct-2022 09:01:15.392 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@6c0e069d')
+03-Oct-2022 09:04:12.954 INFO [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log SessionListener: contextDestroyed()
+03-Oct-2022 09:04:12.954 INFO [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log ContextListener: contextDestroyed()
+03-Oct-2022 09:04:16.604 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+03-Oct-2022 09:04:16.604 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+03-Oct-2022 09:04:16.607 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@22a4793')
+03-Oct-2022 09:06:03.746 INFO [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log SessionListener: contextDestroyed()
+03-Oct-2022 09:06:03.746 INFO [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log ContextListener: contextDestroyed()
+03-Oct-2022 09:06:12.918 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+03-Oct-2022 09:06:12.918 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+03-Oct-2022 09:06:12.920 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@33a633a7')
+03-Oct-2022 09:18:12.091 INFO [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log SessionListener: contextDestroyed()
+03-Oct-2022 09:18:12.091 INFO [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log ContextListener: contextDestroyed()
+03-Oct-2022 09:18:15.561 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+03-Oct-2022 09:18:15.561 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+03-Oct-2022 09:18:15.564 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@1edc2b41')
+03-Oct-2022 09:19:31.925 INFO [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log SessionListener: contextDestroyed()
+03-Oct-2022 09:19:31.925 INFO [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log ContextListener: contextDestroyed()
+03-Oct-2022 09:19:35.200 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+03-Oct-2022 09:19:35.200 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+03-Oct-2022 09:19:35.202 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@22a4793')
+03-Oct-2022 10:47:39.212 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+03-Oct-2022 10:47:39.212 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+03-Oct-2022 10:47:39.215 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@6c0e069d')
+03-Oct-2022 10:48:44.436 INFO [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log SessionListener: contextDestroyed()
+03-Oct-2022 10:48:44.436 INFO [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log ContextListener: contextDestroyed()
+03-Oct-2022 10:48:48.125 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+03-Oct-2022 10:48:48.125 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+03-Oct-2022 10:48:48.128 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@4ee755a3')
+03-Oct-2022 10:52:34.036 INFO [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log SessionListener: contextDestroyed()
+03-Oct-2022 10:52:34.036 INFO [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log ContextListener: contextDestroyed()
+03-Oct-2022 10:52:38.131 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+03-Oct-2022 10:52:38.131 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+03-Oct-2022 10:52:38.133 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@2a647542')
+03-Oct-2022 11:08:59.063 INFO [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log SessionListener: contextDestroyed()
+03-Oct-2022 11:08:59.063 INFO [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log ContextListener: contextDestroyed()
+03-Oct-2022 11:09:02.715 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+03-Oct-2022 11:09:02.715 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+03-Oct-2022 11:09:02.717 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@4ed20012')
+03-Oct-2022 11:09:54.708 INFO [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log SessionListener: contextDestroyed()
+03-Oct-2022 11:09:54.709 INFO [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log ContextListener: contextDestroyed()
+03-Oct-2022 11:09:58.086 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+03-Oct-2022 11:09:58.086 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+03-Oct-2022 11:09:58.088 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@636b571a')
+03-Oct-2022 11:11:30.312 INFO [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log SessionListener: contextDestroyed()
+03-Oct-2022 11:11:30.312 INFO [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log ContextListener: contextDestroyed()
+03-Oct-2022 11:11:33.769 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+03-Oct-2022 11:11:33.769 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+03-Oct-2022 11:11:33.771 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@2f33c01d')
+03-Oct-2022 11:32:58.155 INFO [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log SessionListener: contextDestroyed()
+03-Oct-2022 11:32:58.155 INFO [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log ContextListener: contextDestroyed()
+03-Oct-2022 11:33:01.845 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+03-Oct-2022 11:33:01.845 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+03-Oct-2022 11:33:01.849 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@2f33c01d')
+03-Oct-2022 11:38:49.572 INFO [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log SessionListener: contextDestroyed()
+03-Oct-2022 11:38:49.572 INFO [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log ContextListener: contextDestroyed()
+03-Oct-2022 11:38:53.111 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+03-Oct-2022 11:38:53.111 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+03-Oct-2022 11:38:53.113 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@44ab1ee')
+03-Oct-2022 11:38:55.326 SEVERE [http-nio-8080-exec-1] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [] threw exception [Unable to compile class for JSP: 
+
+An error occurred at line: [32] in the jsp file: [/jspQ1.jsp]
+Syntax error, insert "Finally" to complete TryStatement
+29: 	%>
+30: 		<h1>Division= <%= num1/num2 %></h1>
+31: 	<%
+32: 		}
+33: 	%>
+34: </html>
+
+
+An error occurred at line: [163] in the generated java file: [/exports/syca221574/tomcat/work/Catalina/localhost/ROOT/org/apache/jsp/jspQ1_jsp.java]
+Syntax error on token "catch", Identifier expected
+
+An error occurred at line: [165] in the generated java file: [/exports/syca221574/tomcat/work/Catalina/localhost/ROOT/org/apache/jsp/jspQ1_jsp.java]
+out cannot be resolved to a variable
+
+An error occurred at line: [165] in the generated java file: [/exports/syca221574/tomcat/work/Catalina/localhost/ROOT/org/apache/jsp/jspQ1_jsp.java]
+_jspx_out cannot be resolved to a variable
+
+An error occurred at line: [166] in the generated java file: [/exports/syca221574/tomcat/work/Catalina/localhost/ROOT/org/apache/jsp/jspQ1_jsp.java]
+out cannot be resolved to a variable
+
+An error occurred at line: [166] in the generated java file: [/exports/syca221574/tomcat/work/Catalina/localhost/ROOT/org/apache/jsp/jspQ1_jsp.java]
+out cannot be resolved
+
+An error occurred at line: [168] in the generated java file: [/exports/syca221574/tomcat/work/Catalina/localhost/ROOT/org/apache/jsp/jspQ1_jsp.java]
+response cannot be resolved
+
+An error occurred at line: [169] in the generated java file: [/exports/syca221574/tomcat/work/Catalina/localhost/ROOT/org/apache/jsp/jspQ1_jsp.java]
+out cannot be resolved
+
+An error occurred at line: [171] in the generated java file: [/exports/syca221574/tomcat/work/Catalina/localhost/ROOT/org/apache/jsp/jspQ1_jsp.java]
+out cannot be resolved
+
+An error occurred at line: [174] in the generated java file: [/exports/syca221574/tomcat/work/Catalina/localhost/ROOT/org/apache/jsp/jspQ1_jsp.java]
+_jspx_page_context cannot be resolved to a variable
+
+An error occurred at line: [174] in the generated java file: [/exports/syca221574/tomcat/work/Catalina/localhost/ROOT/org/apache/jsp/jspQ1_jsp.java]
+_jspx_page_context cannot be resolved
+
+An error occurred at line: [177] in the generated java file: [/exports/syca221574/tomcat/work/Catalina/localhost/ROOT/org/apache/jsp/jspQ1_jsp.java]
+Syntax error on token "finally", { expected
+
+An error occurred at line: [178] in the generated java file: [/exports/syca221574/tomcat/work/Catalina/localhost/ROOT/org/apache/jsp/jspQ1_jsp.java]
+_jspx_page_context cannot be resolved to a variable
+
+Stacktrace:] with root cause
+	org.apache.jasper.JasperException: Unable to compile class for JSP: 
+
+An error occurred at line: [32] in the jsp file: [/jspQ1.jsp]
+Syntax error, insert "Finally" to complete TryStatement
+29: 	%>
+30: 		<h1>Division= <%= num1/num2 %></h1>
+31: 	<%
+32: 		}
+33: 	%>
+34: </html>
+
+
+An error occurred at line: [163] in the generated java file: [/exports/syca221574/tomcat/work/Catalina/localhost/ROOT/org/apache/jsp/jspQ1_jsp.java]
+Syntax error on token "catch", Identifier expected
+
+An error occurred at line: [165] in the generated java file: [/exports/syca221574/tomcat/work/Catalina/localhost/ROOT/org/apache/jsp/jspQ1_jsp.java]
+out cannot be resolved to a variable
+
+An error occurred at line: [165] in the generated java file: [/exports/syca221574/tomcat/work/Catalina/localhost/ROOT/org/apache/jsp/jspQ1_jsp.java]
+_jspx_out cannot be resolved to a variable
+
+An error occurred at line: [166] in the generated java file: [/exports/syca221574/tomcat/work/Catalina/localhost/ROOT/org/apache/jsp/jspQ1_jsp.java]
+out cannot be resolved to a variable
+
+An error occurred at line: [166] in the generated java file: [/exports/syca221574/tomcat/work/Catalina/localhost/ROOT/org/apache/jsp/jspQ1_jsp.java]
+out cannot be resolved
+
+An error occurred at line: [168] in the generated java file: [/exports/syca221574/tomcat/work/Catalina/localhost/ROOT/org/apache/jsp/jspQ1_jsp.java]
+response cannot be resolved
+
+An error occurred at line: [169] in the generated java file: [/exports/syca221574/tomcat/work/Catalina/localhost/ROOT/org/apache/jsp/jspQ1_jsp.java]
+out cannot be resolved
+
+An error occurred at line: [171] in the generated java file: [/exports/syca221574/tomcat/work/Catalina/localhost/ROOT/org/apache/jsp/jspQ1_jsp.java]
+out cannot be resolved
+
+An error occurred at line: [174] in the generated java file: [/exports/syca221574/tomcat/work/Catalina/localhost/ROOT/org/apache/jsp/jspQ1_jsp.java]
+_jspx_page_context cannot be resolved to a variable
+
+An error occurred at line: [174] in the generated java file: [/exports/syca221574/tomcat/work/Catalina/localhost/ROOT/org/apache/jsp/jspQ1_jsp.java]
+_jspx_page_context cannot be resolved
+
+An error occurred at line: [177] in the generated java file: [/exports/syca221574/tomcat/work/Catalina/localhost/ROOT/org/apache/jsp/jspQ1_jsp.java]
+Syntax error on token "finally", { expected
+
+An error occurred at line: [178] in the generated java file: [/exports/syca221574/tomcat/work/Catalina/localhost/ROOT/org/apache/jsp/jspQ1_jsp.java]
+_jspx_page_context cannot be resolved to a variable
+
+Stacktrace:
+		at org.apache.jasper.compiler.DefaultErrorHandler.javacError(DefaultErrorHandler.java:102)
+		at org.apache.jasper.compiler.ErrorDispatcher.javacError(ErrorDispatcher.java:213)
+		at org.apache.jasper.compiler.JDTCompiler.generateClass(JDTCompiler.java:569)
+		at org.apache.jasper.compiler.Compiler.compile(Compiler.java:380)
+		at org.apache.jasper.compiler.Compiler.compile(Compiler.java:350)
+		at org.apache.jasper.compiler.Compiler.compile(Compiler.java:334)
+		at org.apache.jasper.JspCompilationContext.compile(JspCompilationContext.java:597)
+		at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:398)
+		at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:383)
+		at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:331)
+		at javax.servlet.http.HttpServlet.service(HttpServlet.java:764)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+		at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+		at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:197)
+		at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+		at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:543)
+		at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:135)
+		at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:81)
+		at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:698)
+		at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+		at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:366)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:639)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:881)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1647)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+		at java.lang.Thread.run(Thread.java:748)
+03-Oct-2022 11:39:19.580 SEVERE [http-nio-8080-exec-2] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [] threw exception [Unable to compile class for JSP: 
+
+An error occurred at line: [32] in the jsp file: [/jspQ1.jsp]
+Syntax error, insert "Finally" to complete TryStatement
+29: 	%>
+30: 		<h1>Division= <%= num1/num2 %></h1>
+31: 	<%
+32: 		}
+33: 	%>
+34: </html>
+
+
+An error occurred at line: [163] in the generated java file: [/exports/syca221574/tomcat/work/Catalina/localhost/ROOT/org/apache/jsp/jspQ1_jsp.java]
+Syntax error on token "catch", Identifier expected
+
+An error occurred at line: [165] in the generated java file: [/exports/syca221574/tomcat/work/Catalina/localhost/ROOT/org/apache/jsp/jspQ1_jsp.java]
+out cannot be resolved to a variable
+
+An error occurred at line: [165] in the generated java file: [/exports/syca221574/tomcat/work/Catalina/localhost/ROOT/org/apache/jsp/jspQ1_jsp.java]
+_jspx_out cannot be resolved to a variable
+
+An error occurred at line: [166] in the generated java file: [/exports/syca221574/tomcat/work/Catalina/localhost/ROOT/org/apache/jsp/jspQ1_jsp.java]
+out cannot be resolved to a variable
+
+An error occurred at line: [166] in the generated java file: [/exports/syca221574/tomcat/work/Catalina/localhost/ROOT/org/apache/jsp/jspQ1_jsp.java]
+out cannot be resolved
+
+An error occurred at line: [168] in the generated java file: [/exports/syca221574/tomcat/work/Catalina/localhost/ROOT/org/apache/jsp/jspQ1_jsp.java]
+response cannot be resolved
+
+An error occurred at line: [169] in the generated java file: [/exports/syca221574/tomcat/work/Catalina/localhost/ROOT/org/apache/jsp/jspQ1_jsp.java]
+out cannot be resolved
+
+An error occurred at line: [171] in the generated java file: [/exports/syca221574/tomcat/work/Catalina/localhost/ROOT/org/apache/jsp/jspQ1_jsp.java]
+out cannot be resolved
+
+An error occurred at line: [174] in the generated java file: [/exports/syca221574/tomcat/work/Catalina/localhost/ROOT/org/apache/jsp/jspQ1_jsp.java]
+_jspx_page_context cannot be resolved to a variable
+
+An error occurred at line: [174] in the generated java file: [/exports/syca221574/tomcat/work/Catalina/localhost/ROOT/org/apache/jsp/jspQ1_jsp.java]
+_jspx_page_context cannot be resolved
+
+An error occurred at line: [177] in the generated java file: [/exports/syca221574/tomcat/work/Catalina/localhost/ROOT/org/apache/jsp/jspQ1_jsp.java]
+Syntax error on token "finally", { expected
+
+An error occurred at line: [178] in the generated java file: [/exports/syca221574/tomcat/work/Catalina/localhost/ROOT/org/apache/jsp/jspQ1_jsp.java]
+_jspx_page_context cannot be resolved to a variable
+
+Stacktrace:] with root cause
+	org.apache.jasper.JasperException: Unable to compile class for JSP: 
+
+An error occurred at line: [32] in the jsp file: [/jspQ1.jsp]
+Syntax error, insert "Finally" to complete TryStatement
+29: 	%>
+30: 		<h1>Division= <%= num1/num2 %></h1>
+31: 	<%
+32: 		}
+33: 	%>
+34: </html>
+
+
+An error occurred at line: [163] in the generated java file: [/exports/syca221574/tomcat/work/Catalina/localhost/ROOT/org/apache/jsp/jspQ1_jsp.java]
+Syntax error on token "catch", Identifier expected
+
+An error occurred at line: [165] in the generated java file: [/exports/syca221574/tomcat/work/Catalina/localhost/ROOT/org/apache/jsp/jspQ1_jsp.java]
+out cannot be resolved to a variable
+
+An error occurred at line: [165] in the generated java file: [/exports/syca221574/tomcat/work/Catalina/localhost/ROOT/org/apache/jsp/jspQ1_jsp.java]
+_jspx_out cannot be resolved to a variable
+
+An error occurred at line: [166] in the generated java file: [/exports/syca221574/tomcat/work/Catalina/localhost/ROOT/org/apache/jsp/jspQ1_jsp.java]
+out cannot be resolved to a variable
+
+An error occurred at line: [166] in the generated java file: [/exports/syca221574/tomcat/work/Catalina/localhost/ROOT/org/apache/jsp/jspQ1_jsp.java]
+out cannot be resolved
+
+An error occurred at line: [168] in the generated java file: [/exports/syca221574/tomcat/work/Catalina/localhost/ROOT/org/apache/jsp/jspQ1_jsp.java]
+response cannot be resolved
+
+An error occurred at line: [169] in the generated java file: [/exports/syca221574/tomcat/work/Catalina/localhost/ROOT/org/apache/jsp/jspQ1_jsp.java]
+out cannot be resolved
+
+An error occurred at line: [171] in the generated java file: [/exports/syca221574/tomcat/work/Catalina/localhost/ROOT/org/apache/jsp/jspQ1_jsp.java]
+out cannot be resolved
+
+An error occurred at line: [174] in the generated java file: [/exports/syca221574/tomcat/work/Catalina/localhost/ROOT/org/apache/jsp/jspQ1_jsp.java]
+_jspx_page_context cannot be resolved to a variable
+
+An error occurred at line: [174] in the generated java file: [/exports/syca221574/tomcat/work/Catalina/localhost/ROOT/org/apache/jsp/jspQ1_jsp.java]
+_jspx_page_context cannot be resolved
+
+An error occurred at line: [177] in the generated java file: [/exports/syca221574/tomcat/work/Catalina/localhost/ROOT/org/apache/jsp/jspQ1_jsp.java]
+Syntax error on token "finally", { expected
+
+An error occurred at line: [178] in the generated java file: [/exports/syca221574/tomcat/work/Catalina/localhost/ROOT/org/apache/jsp/jspQ1_jsp.java]
+_jspx_page_context cannot be resolved to a variable
+
+Stacktrace:
+		at org.apache.jasper.compiler.DefaultErrorHandler.javacError(DefaultErrorHandler.java:102)
+		at org.apache.jasper.compiler.ErrorDispatcher.javacError(ErrorDispatcher.java:213)
+		at org.apache.jasper.compiler.JDTCompiler.generateClass(JDTCompiler.java:569)
+		at org.apache.jasper.compiler.Compiler.compile(Compiler.java:380)
+		at org.apache.jasper.compiler.Compiler.compile(Compiler.java:350)
+		at org.apache.jasper.compiler.Compiler.compile(Compiler.java:334)
+		at org.apache.jasper.JspCompilationContext.compile(JspCompilationContext.java:597)
+		at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:398)
+		at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:383)
+		at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:331)
+		at javax.servlet.http.HttpServlet.service(HttpServlet.java:764)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+		at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+		at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:197)
+		at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+		at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:543)
+		at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:135)
+		at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:81)
+		at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:698)
+		at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+		at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:366)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:639)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:881)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1647)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+		at java.lang.Thread.run(Thread.java:748)
+03-Oct-2022 11:39:21.882 SEVERE [http-nio-8080-exec-3] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [] threw exception [java.lang.ClassNotFoundException: org.apache.jsp.jspQ1_jsp] with root cause
+	java.lang.ClassNotFoundException: org.apache.jsp.jspQ1_jsp
+		at java.net.URLClassLoader.findClass(URLClassLoader.java:387)
+		at org.apache.jasper.servlet.JasperLoader.loadClass(JasperLoader.java:129)
+		at org.apache.jasper.servlet.JasperLoader.loadClass(JasperLoader.java:58)
+		at org.apache.catalina.core.DefaultInstanceManager.newInstance(DefaultInstanceManager.java:158)
+		at org.apache.jasper.servlet.JspServletWrapper.getServlet(JspServletWrapper.java:191)
+		at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:412)
+		at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:383)
+		at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:331)
+		at javax.servlet.http.HttpServlet.service(HttpServlet.java:764)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+		at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+		at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:197)
+		at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+		at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:543)
+		at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:135)
+		at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:81)
+		at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:698)
+		at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+		at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:366)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:639)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:881)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1647)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+		at java.lang.Thread.run(Thread.java:748)
+03-Oct-2022 11:39:54.916 INFO [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log SessionListener: contextDestroyed()
+03-Oct-2022 11:39:54.916 INFO [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log ContextListener: contextDestroyed()
+03-Oct-2022 11:39:58.297 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+03-Oct-2022 11:39:58.297 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+03-Oct-2022 11:39:58.299 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@2a647542')
+03-Oct-2022 11:51:30.636 SEVERE [http-nio-8080-exec-4] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [] threw exception [Unable to compile class for JSP: 
+
+An error occurred at line: [32] in the jsp file: [/jspQ1.jsp]
+Exceptions cannot be resolved to a type
+29: 		{
+30: 			if(num2==0)
+31: 			{
+32: 				throw new Exceptions(num2+" should not be zero");
+33: 			}
+34: 		}
+35: 	%>
+
+
+An error occurred at line: [38] in the jsp file: [/jspQ1.jsp]
+Syntax error, insert "Finally" to complete TryStatement
+35: 	%>
+36: 		<h1>Division= <%= num1/num2 %></h1>
+37: 	<%
+38: 		}
+39: 	%>
+40: </html>
+
+
+An error occurred at line: [169] in the generated java file: [/exports/syca221574/tomcat/work/Catalina/localhost/ROOT/org/apache/jsp/jspQ1_jsp.java]
+Syntax error on token "catch", Identifier expected
+
+An error occurred at line: [171] in the generated java file: [/exports/syca221574/tomcat/work/Catalina/localhost/ROOT/org/apache/jsp/jspQ1_jsp.java]
+out cannot be resolved to a variable
+
+An error occurred at line: [171] in the generated java file: [/exports/syca221574/tomcat/work/Catalina/localhost/ROOT/org/apache/jsp/jspQ1_jsp.java]
+_jspx_out cannot be resolved to a variable
+
+An error occurred at line: [172] in the generated java file: [/exports/syca221574/tomcat/work/Catalina/localhost/ROOT/org/apache/jsp/jspQ1_jsp.java]
+out cannot be resolved to a variable
+
+An error occurred at line: [172] in the generated java file: [/exports/syca221574/tomcat/work/Catalina/localhost/ROOT/org/apache/jsp/jspQ1_jsp.java]
+out cannot be resolved
+
+An error occurred at line: [174] in the generated java file: [/exports/syca221574/tomcat/work/Catalina/localhost/ROOT/org/apache/jsp/jspQ1_jsp.java]
+response cannot be resolved
+
+An error occurred at line: [175] in the generated java file: [/exports/syca221574/tomcat/work/Catalina/localhost/ROOT/org/apache/jsp/jspQ1_jsp.java]
+out cannot be resolved
+
+An error occurred at line: [177] in the generated java file: [/exports/syca221574/tomcat/work/Catalina/localhost/ROOT/org/apache/jsp/jspQ1_jsp.java]
+out cannot be resolved
+
+An error occurred at line: [180] in the generated java file: [/exports/syca221574/tomcat/work/Catalina/localhost/ROOT/org/apache/jsp/jspQ1_jsp.java]
+_jspx_page_context cannot be resolved to a variable
+
+An error occurred at line: [180] in the generated java file: [/exports/syca221574/tomcat/work/Catalina/localhost/ROOT/org/apache/jsp/jspQ1_jsp.java]
+_jspx_page_context cannot be resolved
+
+An error occurred at line: [183] in the generated java file: [/exports/syca221574/tomcat/work/Catalina/localhost/ROOT/org/apache/jsp/jspQ1_jsp.java]
+Syntax error on token "finally", { expected
+
+An error occurred at line: [184] in the generated java file: [/exports/syca221574/tomcat/work/Catalina/localhost/ROOT/org/apache/jsp/jspQ1_jsp.java]
+_jspx_page_context cannot be resolved to a variable
+
+Stacktrace:] with root cause
+	org.apache.jasper.JasperException: Unable to compile class for JSP: 
+
+An error occurred at line: [32] in the jsp file: [/jspQ1.jsp]
+Exceptions cannot be resolved to a type
+29: 		{
+30: 			if(num2==0)
+31: 			{
+32: 				throw new Exceptions(num2+" should not be zero");
+33: 			}
+34: 		}
+35: 	%>
+
+
+An error occurred at line: [38] in the jsp file: [/jspQ1.jsp]
+Syntax error, insert "Finally" to complete TryStatement
+35: 	%>
+36: 		<h1>Division= <%= num1/num2 %></h1>
+37: 	<%
+38: 		}
+39: 	%>
+40: </html>
+
+
+An error occurred at line: [169] in the generated java file: [/exports/syca221574/tomcat/work/Catalina/localhost/ROOT/org/apache/jsp/jspQ1_jsp.java]
+Syntax error on token "catch", Identifier expected
+
+An error occurred at line: [171] in the generated java file: [/exports/syca221574/tomcat/work/Catalina/localhost/ROOT/org/apache/jsp/jspQ1_jsp.java]
+out cannot be resolved to a variable
+
+An error occurred at line: [171] in the generated java file: [/exports/syca221574/tomcat/work/Catalina/localhost/ROOT/org/apache/jsp/jspQ1_jsp.java]
+_jspx_out cannot be resolved to a variable
+
+An error occurred at line: [172] in the generated java file: [/exports/syca221574/tomcat/work/Catalina/localhost/ROOT/org/apache/jsp/jspQ1_jsp.java]
+out cannot be resolved to a variable
+
+An error occurred at line: [172] in the generated java file: [/exports/syca221574/tomcat/work/Catalina/localhost/ROOT/org/apache/jsp/jspQ1_jsp.java]
+out cannot be resolved
+
+An error occurred at line: [174] in the generated java file: [/exports/syca221574/tomcat/work/Catalina/localhost/ROOT/org/apache/jsp/jspQ1_jsp.java]
+response cannot be resolved
+
+An error occurred at line: [175] in the generated java file: [/exports/syca221574/tomcat/work/Catalina/localhost/ROOT/org/apache/jsp/jspQ1_jsp.java]
+out cannot be resolved
+
+An error occurred at line: [177] in the generated java file: [/exports/syca221574/tomcat/work/Catalina/localhost/ROOT/org/apache/jsp/jspQ1_jsp.java]
+out cannot be resolved
+
+An error occurred at line: [180] in the generated java file: [/exports/syca221574/tomcat/work/Catalina/localhost/ROOT/org/apache/jsp/jspQ1_jsp.java]
+_jspx_page_context cannot be resolved to a variable
+
+An error occurred at line: [180] in the generated java file: [/exports/syca221574/tomcat/work/Catalina/localhost/ROOT/org/apache/jsp/jspQ1_jsp.java]
+_jspx_page_context cannot be resolved
+
+An error occurred at line: [183] in the generated java file: [/exports/syca221574/tomcat/work/Catalina/localhost/ROOT/org/apache/jsp/jspQ1_jsp.java]
+Syntax error on token "finally", { expected
+
+An error occurred at line: [184] in the generated java file: [/exports/syca221574/tomcat/work/Catalina/localhost/ROOT/org/apache/jsp/jspQ1_jsp.java]
+_jspx_page_context cannot be resolved to a variable
+
+Stacktrace:
+		at org.apache.jasper.compiler.DefaultErrorHandler.javacError(DefaultErrorHandler.java:102)
+		at org.apache.jasper.compiler.ErrorDispatcher.javacError(ErrorDispatcher.java:213)
+		at org.apache.jasper.compiler.JDTCompiler.generateClass(JDTCompiler.java:569)
+		at org.apache.jasper.compiler.Compiler.compile(Compiler.java:380)
+		at org.apache.jasper.compiler.Compiler.compile(Compiler.java:350)
+		at org.apache.jasper.compiler.Compiler.compile(Compiler.java:334)
+		at org.apache.jasper.JspCompilationContext.compile(JspCompilationContext.java:597)
+		at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:398)
+		at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:383)
+		at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:331)
+		at javax.servlet.http.HttpServlet.service(HttpServlet.java:764)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+		at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+		at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:197)
+		at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+		at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:543)
+		at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:135)
+		at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:81)
+		at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:698)
+		at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+		at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:366)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:639)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:881)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1647)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+		at java.lang.Thread.run(Thread.java:748)
+03-Oct-2022 11:52:10.956 INFO [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log SessionListener: contextDestroyed()
+03-Oct-2022 11:52:10.956 INFO [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log ContextListener: contextDestroyed()
+03-Oct-2022 11:52:14.719 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+03-Oct-2022 11:52:14.720 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+03-Oct-2022 11:52:14.722 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@4ed20012')
+03-Oct-2022 11:52:23.956 SEVERE [http-nio-8080-exec-1] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [] threw exception [Unable to compile class for JSP: 
+
+An error occurred at line: [32] in the jsp file: [/jspQ1.jsp]
+Exceptions cannot be resolved to a type
+29: 		{
+30: 			if(num2==0)
+31: 			{
+32: 				throw new Exceptions(num2+" should not be zero");
+33: 			}
+34: 	%>
+35: 		<h1>Division= <%= num1/num2 %></h1>
+
+
+Stacktrace:] with root cause
+	org.apache.jasper.JasperException: Unable to compile class for JSP: 
+
+An error occurred at line: [32] in the jsp file: [/jspQ1.jsp]
+Exceptions cannot be resolved to a type
+29: 		{
+30: 			if(num2==0)
+31: 			{
+32: 				throw new Exceptions(num2+" should not be zero");
+33: 			}
+34: 	%>
+35: 		<h1>Division= <%= num1/num2 %></h1>
+
+
+Stacktrace:
+		at org.apache.jasper.compiler.DefaultErrorHandler.javacError(DefaultErrorHandler.java:102)
+		at org.apache.jasper.compiler.ErrorDispatcher.javacError(ErrorDispatcher.java:213)
+		at org.apache.jasper.compiler.JDTCompiler.generateClass(JDTCompiler.java:569)
+		at org.apache.jasper.compiler.Compiler.compile(Compiler.java:380)
+		at org.apache.jasper.compiler.Compiler.compile(Compiler.java:350)
+		at org.apache.jasper.compiler.Compiler.compile(Compiler.java:334)
+		at org.apache.jasper.JspCompilationContext.compile(JspCompilationContext.java:597)
+		at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:398)
+		at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:383)
+		at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:331)
+		at javax.servlet.http.HttpServlet.service(HttpServlet.java:764)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+		at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+		at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:197)
+		at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+		at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:543)
+		at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:135)
+		at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:81)
+		at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:698)
+		at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+		at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:366)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:639)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:881)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1647)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+		at java.lang.Thread.run(Thread.java:748)
+03-Oct-2022 11:52:43.425 SEVERE [http-nio-8080-exec-3] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [] threw exception [Unable to compile class for JSP: 
+
+An error occurred at line: [32] in the jsp file: [/jspQ1.jsp]
+Exceptions cannot be resolved to a type
+29: 		{
+30: 			if(num2==0)
+31: 			{
+32: 				throw new Exceptions("Num2 should not be zero");
+33: 			}
+34: 	%>
+35: 		<h1>Division= <%= num1/num2 %></h1>
+
+
+Stacktrace:] with root cause
+	org.apache.jasper.JasperException: Unable to compile class for JSP: 
+
+An error occurred at line: [32] in the jsp file: [/jspQ1.jsp]
+Exceptions cannot be resolved to a type
+29: 		{
+30: 			if(num2==0)
+31: 			{
+32: 				throw new Exceptions("Num2 should not be zero");
+33: 			}
+34: 	%>
+35: 		<h1>Division= <%= num1/num2 %></h1>
+
+
+Stacktrace:
+		at org.apache.jasper.compiler.DefaultErrorHandler.javacError(DefaultErrorHandler.java:102)
+		at org.apache.jasper.compiler.ErrorDispatcher.javacError(ErrorDispatcher.java:213)
+		at org.apache.jasper.compiler.JDTCompiler.generateClass(JDTCompiler.java:569)
+		at org.apache.jasper.compiler.Compiler.compile(Compiler.java:380)
+		at org.apache.jasper.compiler.Compiler.compile(Compiler.java:350)
+		at org.apache.jasper.compiler.Compiler.compile(Compiler.java:334)
+		at org.apache.jasper.JspCompilationContext.compile(JspCompilationContext.java:597)
+		at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:398)
+		at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:383)
+		at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:331)
+		at javax.servlet.http.HttpServlet.service(HttpServlet.java:764)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+		at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+		at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:197)
+		at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+		at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:543)
+		at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:135)
+		at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:81)
+		at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:698)
+		at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+		at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:366)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:639)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:881)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1647)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+		at java.lang.Thread.run(Thread.java:748)
+03-Oct-2022 11:52:46.424 SEVERE [http-nio-8080-exec-5] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [] threw exception [java.lang.ClassNotFoundException: org.apache.jsp.jspQ1_jsp] with root cause
+	java.lang.ClassNotFoundException: org.apache.jsp.jspQ1_jsp
+		at java.net.URLClassLoader.findClass(URLClassLoader.java:387)
+		at org.apache.jasper.servlet.JasperLoader.loadClass(JasperLoader.java:129)
+		at org.apache.jasper.servlet.JasperLoader.loadClass(JasperLoader.java:58)
+		at org.apache.catalina.core.DefaultInstanceManager.newInstance(DefaultInstanceManager.java:158)
+		at org.apache.jasper.servlet.JspServletWrapper.getServlet(JspServletWrapper.java:191)
+		at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:412)
+		at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:383)
+		at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:331)
+		at javax.servlet.http.HttpServlet.service(HttpServlet.java:764)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+		at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+		at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:197)
+		at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+		at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:543)
+		at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:135)
+		at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:81)
+		at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:698)
+		at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+		at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:366)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:639)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:881)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1647)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+		at java.lang.Thread.run(Thread.java:748)

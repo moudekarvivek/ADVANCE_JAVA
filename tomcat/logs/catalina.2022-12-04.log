@@ -1,0 +1,265 @@
+04-Dec-2022 20:28:50.349 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/8.5.76
+04-Dec-2022 20:28:50.377 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Feb 23 2022 17:59:11 UTC
+04-Dec-2022 20:28:50.377 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 8.5.76.0
+04-Dec-2022 20:28:50.377 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Linux
+04-Dec-2022 20:28:50.377 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            5.15.0-56-generic
+04-Dec-2022 20:28:50.377 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+04-Dec-2022 20:28:50.378 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /usr/lib/jvm/java-11-openjdk-amd64
+04-Dec-2022 20:28:50.378 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           11.0.17+8-post-Ubuntu-1ubuntu222.04
+04-Dec-2022 20:28:50.378 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Ubuntu
+04-Dec-2022 20:28:50.378 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /home/vivek/Desktop/Advance Java All Assignments/1. Java/tomcat
+04-Dec-2022 20:28:50.378 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /home/vivek/Desktop/Advance Java All Assignments/1. Java/tomcat
+04-Dec-2022 20:28:50.403 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+04-Dec-2022 20:28:50.404 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+04-Dec-2022 20:28:50.405 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+04-Dec-2022 20:28:50.405 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+04-Dec-2022 20:28:50.406 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+04-Dec-2022 20:28:50.406 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=/home/vivek/Desktop/Advance Java All Assignments/1. Java/tomcat/conf/logging.properties
+04-Dec-2022 20:28:50.412 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+04-Dec-2022 20:28:50.413 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+04-Dec-2022 20:28:50.413 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+04-Dec-2022 20:28:50.416 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dorg.apache.catalina.security.SecurityListener.UMASK=0027
+04-Dec-2022 20:28:50.417 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+04-Dec-2022 20:28:50.417 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=/home/vivek/Desktop/Advance Java All Assignments/1. Java/tomcat
+04-Dec-2022 20:28:50.417 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=/home/vivek/Desktop/Advance Java All Assignments/1. Java/tomcat
+04-Dec-2022 20:28:50.418 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=/home/vivek/Desktop/Advance Java All Assignments/1. Java/tomcat/temp
+04-Dec-2022 20:28:50.418 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [/usr/java/packages/lib:/usr/lib/x86_64-linux-gnu/jni:/lib/x86_64-linux-gnu:/usr/lib/x86_64-linux-gnu:/usr/lib/jni:/lib:/usr/lib]
+04-Dec-2022 20:28:50.609 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+04-Dec-2022 20:28:50.789 INFO [main] org.apache.catalina.startup.Catalina.load Initialization processed in 3467 ms
+04-Dec-2022 20:28:50.966 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+04-Dec-2022 20:28:50.967 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/8.5.76]
+04-Dec-2022 20:28:51.024 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/home/vivek/Desktop/Advance Java All Assignments/1. Java/tomcat/webapps/ROOT]
+04-Dec-2022 20:28:52.973 INFO [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+04-Dec-2022 20:28:53.517 WARNING [localhost-startStop-1] org.apache.catalina.util.SessionIdGeneratorBase.createSecureRandom Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [242] milliseconds.
+04-Dec-2022 20:28:53.552 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/home/vivek/Desktop/Advance Java All Assignments/1. Java/tomcat/webapps/ROOT] has finished in [2,528] ms
+04-Dec-2022 20:28:53.553 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/home/vivek/Desktop/Advance Java All Assignments/1. Java/tomcat/webapps/host-manager]
+04-Dec-2022 20:28:53.891 INFO [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+04-Dec-2022 20:28:53.899 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/home/vivek/Desktop/Advance Java All Assignments/1. Java/tomcat/webapps/host-manager] has finished in [346] ms
+04-Dec-2022 20:28:53.900 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/home/vivek/Desktop/Advance Java All Assignments/1. Java/tomcat/webapps/manager]
+04-Dec-2022 20:28:54.184 INFO [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+04-Dec-2022 20:28:54.188 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/home/vivek/Desktop/Advance Java All Assignments/1. Java/tomcat/webapps/manager] has finished in [288] ms
+04-Dec-2022 20:28:54.189 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/home/vivek/Desktop/Advance Java All Assignments/1. Java/tomcat/webapps/docs]
+04-Dec-2022 20:28:54.514 INFO [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+04-Dec-2022 20:28:54.517 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/home/vivek/Desktop/Advance Java All Assignments/1. Java/tomcat/webapps/docs] has finished in [328] ms
+04-Dec-2022 20:28:54.518 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/home/vivek/Desktop/Advance Java All Assignments/1. Java/tomcat/webapps/examples]
+04-Dec-2022 20:28:55.682 INFO [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+04-Dec-2022 20:28:55.775 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/home/vivek/Desktop/Advance Java All Assignments/1. Java/tomcat/webapps/examples] has finished in [1,258] ms
+04-Dec-2022 20:28:55.786 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+04-Dec-2022 20:28:55.836 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in 5046 ms
+04-Dec-2022 23:19:55.031 INFO [main] org.apache.catalina.core.StandardServer.await A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+04-Dec-2022 23:19:55.039 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+04-Dec-2022 23:19:55.040 INFO [main] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+04-Dec-2022 23:19:55.075 WARNING [localhost-startStop-2] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesObjectStreamClassCaches Failed to clear soft references from ObjectStreamClass$Caches for web application [ROOT]
+	java.lang.ClassCastException: class java.io.ObjectStreamClass$Caches$1 cannot be cast to class java.util.Map (java.io.ObjectStreamClass$Caches$1 and java.util.Map are in module java.base of loader 'bootstrap')
+		at org.apache.catalina.loader.WebappClassLoaderBase.clearCache(WebappClassLoaderBase.java:2337)
+		at org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesObjectStreamClassCaches(WebappClassLoaderBase.java:2312)
+		at org.apache.catalina.loader.WebappClassLoaderBase.clearReferences(WebappClassLoaderBase.java:1675)
+		at org.apache.catalina.loader.WebappClassLoaderBase.stop(WebappClassLoaderBase.java:1605)
+		at org.apache.catalina.loader.WebappLoader.stopInternal(WebappLoader.java:455)
+		at org.apache.catalina.util.LifecycleBase.stop(LifecycleBase.java:257)
+		at org.apache.catalina.core.StandardContext.stopInternal(StandardContext.java:5505)
+		at org.apache.catalina.util.LifecycleBase.stop(LifecycleBase.java:257)
+		at org.apache.catalina.core.ContainerBase$StopChild.call(ContainerBase.java:1443)
+		at org.apache.catalina.core.ContainerBase$StopChild.call(ContainerBase.java:1432)
+		at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+		at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+		at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+		at java.base/java.lang.Thread.run(Thread.java:829)
+04-Dec-2022 23:19:55.142 WARNING [localhost-startStop-2] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesObjectStreamClassCaches Failed to clear soft references from ObjectStreamClass$Caches for web application [examples]
+	java.lang.ClassCastException: class java.io.ObjectStreamClass$Caches$1 cannot be cast to class java.util.Map (java.io.ObjectStreamClass$Caches$1 and java.util.Map are in module java.base of loader 'bootstrap')
+		at org.apache.catalina.loader.WebappClassLoaderBase.clearCache(WebappClassLoaderBase.java:2337)
+		at org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesObjectStreamClassCaches(WebappClassLoaderBase.java:2312)
+		at org.apache.catalina.loader.WebappClassLoaderBase.clearReferences(WebappClassLoaderBase.java:1675)
+		at org.apache.catalina.loader.WebappClassLoaderBase.stop(WebappClassLoaderBase.java:1605)
+		at org.apache.catalina.loader.WebappLoader.stopInternal(WebappLoader.java:455)
+		at org.apache.catalina.util.LifecycleBase.stop(LifecycleBase.java:257)
+		at org.apache.catalina.core.StandardContext.stopInternal(StandardContext.java:5505)
+		at org.apache.catalina.util.LifecycleBase.stop(LifecycleBase.java:257)
+		at org.apache.catalina.core.ContainerBase$StopChild.call(ContainerBase.java:1443)
+		at org.apache.catalina.core.ContainerBase$StopChild.call(ContainerBase.java:1432)
+		at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+		at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+		at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+		at java.base/java.lang.Thread.run(Thread.java:829)
+04-Dec-2022 23:19:55.151 WARNING [localhost-startStop-2] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesObjectStreamClassCaches Failed to clear soft references from ObjectStreamClass$Caches for web application [host-manager]
+	java.lang.ClassCastException: class java.io.ObjectStreamClass$Caches$1 cannot be cast to class java.util.Map (java.io.ObjectStreamClass$Caches$1 and java.util.Map are in module java.base of loader 'bootstrap')
+		at org.apache.catalina.loader.WebappClassLoaderBase.clearCache(WebappClassLoaderBase.java:2337)
+		at org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesObjectStreamClassCaches(WebappClassLoaderBase.java:2312)
+		at org.apache.catalina.loader.WebappClassLoaderBase.clearReferences(WebappClassLoaderBase.java:1675)
+		at org.apache.catalina.loader.WebappClassLoaderBase.stop(WebappClassLoaderBase.java:1605)
+		at org.apache.catalina.loader.WebappLoader.stopInternal(WebappLoader.java:455)
+		at org.apache.catalina.util.LifecycleBase.stop(LifecycleBase.java:257)
+		at org.apache.catalina.core.StandardContext.stopInternal(StandardContext.java:5505)
+		at org.apache.catalina.util.LifecycleBase.stop(LifecycleBase.java:257)
+		at org.apache.catalina.core.ContainerBase$StopChild.call(ContainerBase.java:1443)
+		at org.apache.catalina.core.ContainerBase$StopChild.call(ContainerBase.java:1432)
+		at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+		at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+		at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+		at java.base/java.lang.Thread.run(Thread.java:829)
+04-Dec-2022 23:19:55.158 WARNING [localhost-startStop-2] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesObjectStreamClassCaches Failed to clear soft references from ObjectStreamClass$Caches for web application [manager]
+	java.lang.ClassCastException: class java.io.ObjectStreamClass$Caches$1 cannot be cast to class java.util.Map (java.io.ObjectStreamClass$Caches$1 and java.util.Map are in module java.base of loader 'bootstrap')
+		at org.apache.catalina.loader.WebappClassLoaderBase.clearCache(WebappClassLoaderBase.java:2337)
+		at org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesObjectStreamClassCaches(WebappClassLoaderBase.java:2312)
+		at org.apache.catalina.loader.WebappClassLoaderBase.clearReferences(WebappClassLoaderBase.java:1675)
+		at org.apache.catalina.loader.WebappClassLoaderBase.stop(WebappClassLoaderBase.java:1605)
+		at org.apache.catalina.loader.WebappLoader.stopInternal(WebappLoader.java:455)
+		at org.apache.catalina.util.LifecycleBase.stop(LifecycleBase.java:257)
+		at org.apache.catalina.core.StandardContext.stopInternal(StandardContext.java:5505)
+		at org.apache.catalina.util.LifecycleBase.stop(LifecycleBase.java:257)
+		at org.apache.catalina.core.ContainerBase$StopChild.call(ContainerBase.java:1443)
+		at org.apache.catalina.core.ContainerBase$StopChild.call(ContainerBase.java:1432)
+		at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+		at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+		at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+		at java.base/java.lang.Thread.run(Thread.java:829)
+04-Dec-2022 23:19:55.164 WARNING [localhost-startStop-2] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesObjectStreamClassCaches Failed to clear soft references from ObjectStreamClass$Caches for web application [docs]
+	java.lang.ClassCastException: class java.io.ObjectStreamClass$Caches$1 cannot be cast to class java.util.Map (java.io.ObjectStreamClass$Caches$1 and java.util.Map are in module java.base of loader 'bootstrap')
+		at org.apache.catalina.loader.WebappClassLoaderBase.clearCache(WebappClassLoaderBase.java:2337)
+		at org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesObjectStreamClassCaches(WebappClassLoaderBase.java:2312)
+		at org.apache.catalina.loader.WebappClassLoaderBase.clearReferences(WebappClassLoaderBase.java:1675)
+		at org.apache.catalina.loader.WebappClassLoaderBase.stop(WebappClassLoaderBase.java:1605)
+		at org.apache.catalina.loader.WebappLoader.stopInternal(WebappLoader.java:455)
+		at org.apache.catalina.util.LifecycleBase.stop(LifecycleBase.java:257)
+		at org.apache.catalina.core.StandardContext.stopInternal(StandardContext.java:5505)
+		at org.apache.catalina.util.LifecycleBase.stop(LifecycleBase.java:257)
+		at org.apache.catalina.core.ContainerBase$StopChild.call(ContainerBase.java:1443)
+		at org.apache.catalina.core.ContainerBase$StopChild.call(ContainerBase.java:1432)
+		at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+		at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+		at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+		at java.base/java.lang.Thread.run(Thread.java:829)
+04-Dec-2022 23:19:55.167 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+04-Dec-2022 23:19:55.183 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+04-Dec-2022 23:19:59.976 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/8.5.76
+04-Dec-2022 23:19:59.990 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Feb 23 2022 17:59:11 UTC
+04-Dec-2022 23:19:59.991 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 8.5.76.0
+04-Dec-2022 23:19:59.991 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Linux
+04-Dec-2022 23:19:59.991 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            5.15.0-56-generic
+04-Dec-2022 23:19:59.992 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+04-Dec-2022 23:19:59.992 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /usr/lib/jvm/java-11-openjdk-amd64
+04-Dec-2022 23:19:59.992 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           11.0.17+8-post-Ubuntu-1ubuntu222.04
+04-Dec-2022 23:19:59.992 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Ubuntu
+04-Dec-2022 23:19:59.992 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /home/vivek/Desktop/Advance Java All Assignments/1. Java/tomcat
+04-Dec-2022 23:19:59.992 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /home/vivek/Desktop/Advance Java All Assignments/1. Java/tomcat
+04-Dec-2022 23:20:00.006 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+04-Dec-2022 23:20:00.011 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+04-Dec-2022 23:20:00.011 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+04-Dec-2022 23:20:00.012 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+04-Dec-2022 23:20:00.012 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+04-Dec-2022 23:20:00.012 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=/home/vivek/Desktop/Advance Java All Assignments/1. Java/tomcat/conf/logging.properties
+04-Dec-2022 23:20:00.012 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+04-Dec-2022 23:20:00.012 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+04-Dec-2022 23:20:00.013 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+04-Dec-2022 23:20:00.013 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dorg.apache.catalina.security.SecurityListener.UMASK=0027
+04-Dec-2022 23:20:00.013 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+04-Dec-2022 23:20:00.013 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=/home/vivek/Desktop/Advance Java All Assignments/1. Java/tomcat
+04-Dec-2022 23:20:00.013 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=/home/vivek/Desktop/Advance Java All Assignments/1. Java/tomcat
+04-Dec-2022 23:20:00.014 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=/home/vivek/Desktop/Advance Java All Assignments/1. Java/tomcat/temp
+04-Dec-2022 23:20:00.014 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [/usr/java/packages/lib:/usr/lib/x86_64-linux-gnu/jni:/lib/x86_64-linux-gnu:/usr/lib/x86_64-linux-gnu:/usr/lib/jni:/lib:/usr/lib]
+04-Dec-2022 23:20:00.145 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+04-Dec-2022 23:20:00.212 INFO [main] org.apache.catalina.startup.Catalina.load Initialization processed in 2076 ms
+04-Dec-2022 23:20:00.382 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+04-Dec-2022 23:20:00.383 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/8.5.76]
+04-Dec-2022 23:20:00.416 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/home/vivek/Desktop/Advance Java All Assignments/1. Java/tomcat/webapps/ROOT]
+04-Dec-2022 23:20:01.831 INFO [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+04-Dec-2022 23:20:01.993 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/home/vivek/Desktop/Advance Java All Assignments/1. Java/tomcat/webapps/ROOT] has finished in [1,574] ms
+04-Dec-2022 23:20:01.994 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/home/vivek/Desktop/Advance Java All Assignments/1. Java/tomcat/webapps/host-manager]
+04-Dec-2022 23:20:02.407 INFO [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+04-Dec-2022 23:20:02.419 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/home/vivek/Desktop/Advance Java All Assignments/1. Java/tomcat/webapps/host-manager] has finished in [424] ms
+04-Dec-2022 23:20:02.419 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/home/vivek/Desktop/Advance Java All Assignments/1. Java/tomcat/webapps/manager]
+04-Dec-2022 23:20:02.820 INFO [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+04-Dec-2022 23:20:02.825 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/home/vivek/Desktop/Advance Java All Assignments/1. Java/tomcat/webapps/manager] has finished in [406] ms
+04-Dec-2022 23:20:02.825 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/home/vivek/Desktop/Advance Java All Assignments/1. Java/tomcat/webapps/docs]
+04-Dec-2022 23:20:03.201 INFO [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+04-Dec-2022 23:20:03.205 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/home/vivek/Desktop/Advance Java All Assignments/1. Java/tomcat/webapps/docs] has finished in [379] ms
+04-Dec-2022 23:20:03.205 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/home/vivek/Desktop/Advance Java All Assignments/1. Java/tomcat/webapps/examples]
+04-Dec-2022 23:20:04.290 INFO [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+04-Dec-2022 23:20:04.380 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/home/vivek/Desktop/Advance Java All Assignments/1. Java/tomcat/webapps/examples] has finished in [1,174] ms
+04-Dec-2022 23:20:04.388 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+04-Dec-2022 23:20:04.446 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in 4232 ms
+04-Dec-2022 23:21:58.810 INFO [main] org.apache.catalina.core.StandardServer.await A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+04-Dec-2022 23:21:58.811 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+04-Dec-2022 23:21:58.815 INFO [main] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+04-Dec-2022 23:21:58.836 WARNING [localhost-startStop-2] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesObjectStreamClassCaches Failed to clear soft references from ObjectStreamClass$Caches for web application [ROOT]
+	java.lang.ClassCastException: class java.io.ObjectStreamClass$Caches$1 cannot be cast to class java.util.Map (java.io.ObjectStreamClass$Caches$1 and java.util.Map are in module java.base of loader 'bootstrap')
+		at org.apache.catalina.loader.WebappClassLoaderBase.clearCache(WebappClassLoaderBase.java:2337)
+		at org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesObjectStreamClassCaches(WebappClassLoaderBase.java:2312)
+		at org.apache.catalina.loader.WebappClassLoaderBase.clearReferences(WebappClassLoaderBase.java:1675)
+		at org.apache.catalina.loader.WebappClassLoaderBase.stop(WebappClassLoaderBase.java:1605)
+		at org.apache.catalina.loader.WebappLoader.stopInternal(WebappLoader.java:455)
+		at org.apache.catalina.util.LifecycleBase.stop(LifecycleBase.java:257)
+		at org.apache.catalina.core.StandardContext.stopInternal(StandardContext.java:5505)
+		at org.apache.catalina.util.LifecycleBase.stop(LifecycleBase.java:257)
+		at org.apache.catalina.core.ContainerBase$StopChild.call(ContainerBase.java:1443)
+		at org.apache.catalina.core.ContainerBase$StopChild.call(ContainerBase.java:1432)
+		at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+		at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+		at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+		at java.base/java.lang.Thread.run(Thread.java:829)
+04-Dec-2022 23:21:58.858 WARNING [localhost-startStop-2] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesObjectStreamClassCaches Failed to clear soft references from ObjectStreamClass$Caches for web application [examples]
+	java.lang.ClassCastException: class java.io.ObjectStreamClass$Caches$1 cannot be cast to class java.util.Map (java.io.ObjectStreamClass$Caches$1 and java.util.Map are in module java.base of loader 'bootstrap')
+		at org.apache.catalina.loader.WebappClassLoaderBase.clearCache(WebappClassLoaderBase.java:2337)
+		at org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesObjectStreamClassCaches(WebappClassLoaderBase.java:2312)
+		at org.apache.catalina.loader.WebappClassLoaderBase.clearReferences(WebappClassLoaderBase.java:1675)
+		at org.apache.catalina.loader.WebappClassLoaderBase.stop(WebappClassLoaderBase.java:1605)
+		at org.apache.catalina.loader.WebappLoader.stopInternal(WebappLoader.java:455)
+		at org.apache.catalina.util.LifecycleBase.stop(LifecycleBase.java:257)
+		at org.apache.catalina.core.StandardContext.stopInternal(StandardContext.java:5505)
+		at org.apache.catalina.util.LifecycleBase.stop(LifecycleBase.java:257)
+		at org.apache.catalina.core.ContainerBase$StopChild.call(ContainerBase.java:1443)
+		at org.apache.catalina.core.ContainerBase$StopChild.call(ContainerBase.java:1432)
+		at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+		at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+		at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+		at java.base/java.lang.Thread.run(Thread.java:829)
+04-Dec-2022 23:21:58.872 WARNING [localhost-startStop-2] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesObjectStreamClassCaches Failed to clear soft references from ObjectStreamClass$Caches for web application [host-manager]
+	java.lang.ClassCastException: class java.io.ObjectStreamClass$Caches$1 cannot be cast to class java.util.Map (java.io.ObjectStreamClass$Caches$1 and java.util.Map are in module java.base of loader 'bootstrap')
+		at org.apache.catalina.loader.WebappClassLoaderBase.clearCache(WebappClassLoaderBase.java:2337)
+		at org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesObjectStreamClassCaches(WebappClassLoaderBase.java:2312)
+		at org.apache.catalina.loader.WebappClassLoaderBase.clearReferences(WebappClassLoaderBase.java:1675)
+		at org.apache.catalina.loader.WebappClassLoaderBase.stop(WebappClassLoaderBase.java:1605)
+		at org.apache.catalina.loader.WebappLoader.stopInternal(WebappLoader.java:455)
+		at org.apache.catalina.util.LifecycleBase.stop(LifecycleBase.java:257)
+		at org.apache.catalina.core.StandardContext.stopInternal(StandardContext.java:5505)
+		at org.apache.catalina.util.LifecycleBase.stop(LifecycleBase.java:257)
+		at org.apache.catalina.core.ContainerBase$StopChild.call(ContainerBase.java:1443)
+		at org.apache.catalina.core.ContainerBase$StopChild.call(ContainerBase.java:1432)
+		at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+		at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+		at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+		at java.base/java.lang.Thread.run(Thread.java:829)
+04-Dec-2022 23:21:58.883 WARNING [localhost-startStop-2] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesObjectStreamClassCaches Failed to clear soft references from ObjectStreamClass$Caches for web application [manager]
+	java.lang.ClassCastException: class java.io.ObjectStreamClass$Caches$1 cannot be cast to class java.util.Map (java.io.ObjectStreamClass$Caches$1 and java.util.Map are in module java.base of loader 'bootstrap')
+		at org.apache.catalina.loader.WebappClassLoaderBase.clearCache(WebappClassLoaderBase.java:2337)
+		at org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesObjectStreamClassCaches(WebappClassLoaderBase.java:2312)
+		at org.apache.catalina.loader.WebappClassLoaderBase.clearReferences(WebappClassLoaderBase.java:1675)
+		at org.apache.catalina.loader.WebappClassLoaderBase.stop(WebappClassLoaderBase.java:1605)
+		at org.apache.catalina.loader.WebappLoader.stopInternal(WebappLoader.java:455)
+		at org.apache.catalina.util.LifecycleBase.stop(LifecycleBase.java:257)
+		at org.apache.catalina.core.StandardContext.stopInternal(StandardContext.java:5505)
+		at org.apache.catalina.util.LifecycleBase.stop(LifecycleBase.java:257)
+		at org.apache.catalina.core.ContainerBase$StopChild.call(ContainerBase.java:1443)
+		at org.apache.catalina.core.ContainerBase$StopChild.call(ContainerBase.java:1432)
+		at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+		at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+		at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+		at java.base/java.lang.Thread.run(Thread.java:829)
+04-Dec-2022 23:21:58.899 WARNING [localhost-startStop-2] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesObjectStreamClassCaches Failed to clear soft references from ObjectStreamClass$Caches for web application [docs]
+	java.lang.ClassCastException: class java.io.ObjectStreamClass$Caches$1 cannot be cast to class java.util.Map (java.io.ObjectStreamClass$Caches$1 and java.util.Map are in module java.base of loader 'bootstrap')
+		at org.apache.catalina.loader.WebappClassLoaderBase.clearCache(WebappClassLoaderBase.java:2337)
+		at org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesObjectStreamClassCaches(WebappClassLoaderBase.java:2312)
+		at org.apache.catalina.loader.WebappClassLoaderBase.clearReferences(WebappClassLoaderBase.java:1675)
+		at org.apache.catalina.loader.WebappClassLoaderBase.stop(WebappClassLoaderBase.java:1605)
+		at org.apache.catalina.loader.WebappLoader.stopInternal(WebappLoader.java:455)
+		at org.apache.catalina.util.LifecycleBase.stop(LifecycleBase.java:257)
+		at org.apache.catalina.core.StandardContext.stopInternal(StandardContext.java:5505)
+		at org.apache.catalina.util.LifecycleBase.stop(LifecycleBase.java:257)
+		at org.apache.catalina.core.ContainerBase$StopChild.call(ContainerBase.java:1443)
+		at org.apache.catalina.core.ContainerBase$StopChild.call(ContainerBase.java:1432)
+		at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+		at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+		at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+		at java.base/java.lang.Thread.run(Thread.java:829)
+04-Dec-2022 23:21:58.901 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+04-Dec-2022 23:21:58.917 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
